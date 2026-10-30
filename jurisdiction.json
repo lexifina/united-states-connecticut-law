@@ -1,0 +1,9 @@
+{
+  "path": "us-ct",
+  "code": "CT",
+  "name": "Connecticut",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-connecticut-law",
+  "build": "built: Titles 33, 47, 47a and 53a of the General Statutes of Connecticut, revisions of 2019, 2021, 2023, 2025",
+  "register_date": "2026-10-30"
+}

@@ -1,0 +1,133 @@
+{
+ "country": "US-CT",
+ "acts": [
+  {
+   "slug": "title-33",
+   "short": "CGS Title 33",
+   "title": "General Statutes of Connecticut, Title 33: Corporations",
+   "url": "https://www.cga.ct.gov/current/pub/title_33.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 578,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_33.htm",
+     "sha256": "88c47f46d1e41a6b2795b807fb88dae215850f9c44a51aa49ef7deadf925bfc2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 581,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_33.htm",
+     "sha256": "2d4404bc35bc93134459c7d0d20ea54985662fd7db0ec1abbc66f20e04b9705c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 581,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_33.htm",
+     "sha256": "fbaa97592e3923d16449ff4d936cb6000b39a41dc110c15d358033acffd1c846"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 581,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_33.htm",
+     "sha256": "a257314d70fbbc2aa6b0d1eb13e61adea385e302b8f964686f31b85f873cbbd6"
+    }
+   ]
+  },
+  {
+   "slug": "title-47",
+   "short": "CGS Title 47",
+   "title": "General Statutes of Connecticut, Title 47: Land and Land Records",
+   "url": "https://www.cga.ct.gov/current/pub/title_47.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 340,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_47.htm",
+     "sha256": "c00d1135909e4494f1ff0100746c839b39c24ef2f0ff313ddfc8a06b853a0903"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 340,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_47.htm",
+     "sha256": "396ea48cc5c736e57a5acd68be221d0adbe88b99342c33bb0e3831f7137d3427"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 344,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_47.htm",
+     "sha256": "7c581aaeae51cf0055329c4918d3021da7e69b30550f355b69c87187ac8ae790"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 350,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_47.htm",
+     "sha256": "08592b5d5cd6edb23d73496284b95b97940334dba9c646449aacc43e8e1faf5b"
+    }
+   ]
+  },
+  {
+   "slug": "title-47a",
+   "short": "CGS Title 47A",
+   "title": "General Statutes of Connecticut, Title 47A: Landlord and Tenant",
+   "url": "https://www.cga.ct.gov/current/pub/title_47a.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 138,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_47a.htm",
+     "sha256": "db2f80dd560717c7525a3550257ae17edef33f476335409a4257c877e882f75d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 138,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_47a.htm",
+     "sha256": "88627da08f139912abd3ce3194717a438414dd6bb3ffccb23de40c8dab2e0b86"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 141,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_47a.htm",
+     "sha256": "13d59259616b7747b8b4f17207b045d564cb54c3bc06a7f48ca158c41c698746"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 145,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_47a.htm",
+     "sha256": "465ab1f66cc13e61a8e6ea162e160894809ba33bc92b6259062843a53ef43113"
+    }
+   ]
+  },
+  {
+   "slug": "title-53a",
+   "short": "CGS Title 53A",
+   "title": "General Statutes of Connecticut, Title 53A: Penal Code",
+   "url": "https://www.cga.ct.gov/current/pub/title_53a.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 413,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_53a.htm",
+     "sha256": "fe8f1da5a32186a854cf625bf0e7e9b68b5e86a435f88a4b1291f6598b8b1838"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 413,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_53a.htm",
+     "sha256": "185dee0658126736ce844af4daf1b0f2e827954d6af196b1469ae05bad6cde97"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 419,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_53a.htm",
+     "sha256": "1f0160c171fedbc2e47ab73aa285616c24b13cf4c2d7d13aa91cb6b1c48bd458"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 423,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_53a.htm",
+     "sha256": "b9d928b77934bcf9c8e064d27b4ebb72b11bf7b6d2fd25a3519e3ea21f63e4d5"
+    }
+   ]
+  }
+ ]
+}
