@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 4E: State Contracting
 
-CGS Title 4E · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_04e.htm>
+CGS Title 4E · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_04e.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,7 +18,7 @@ CGS Title 4E · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4e-12 | [0004e-0012.md](0004e-0012.md) | 0 |  |
 | Sec. 4e-13 | [0004e-0013.md](0004e-0013.md) | 0 |  |
 | Sec. 4e-14 | [0004e-0014.md](0004e-0014.md) | 0 |  |
-| Sec. 4e-15 | [0004e-0015.md](0004e-0015.md) | 0 |  |
+| Sec. 4e-15 | [0004e-0015.md](0004e-0015.md) | 1 | 2026-01-01 |
 | Sec. 4e-16 | [0004e-0016.md](0004e-0016.md) | 0 |  |
 | Sec. 4e-17 | [0004e-0017.md](0004e-0017.md) | 0 |  |
 | Sec. 4e-18 | [0004e-0018.md](0004e-0018.md) | 0 |  |

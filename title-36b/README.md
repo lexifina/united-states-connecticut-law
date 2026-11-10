@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 36B: Connecticut Securities Law and Business Opportunity Investment Act
 
-CGS Title 36B · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_36b.htm>
+CGS Title 36B · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_36b.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -9,7 +9,7 @@ CGS Title 36B · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <h
 | Sec. 36b-3 | [0036b-0003.md](0036b-0003.md) | 0 |  |
 | Sec. 36b-4 | [0036b-0004.md](0036b-0004.md) | 0 |  |
 | Sec. 36b-5 | [0036b-0005.md](0036b-0005.md) | 0 |  |
-| Sec. 36b-6 | [0036b-0006.md](0036b-0006.md) | 0 |  |
+| Sec. 36b-6 | [0036b-0006.md](0036b-0006.md) | 1 | 2026-01-01 |
 | Sec. 36b-7 | [0036b-0007.md](0036b-0007.md) | 0 |  |
 | Sec. 36b-8 | [0036b-0008.md](0036b-0008.md) | 0 |  |
 | Sec. 36b-9 | [0036b-0009.md](0036b-0009.md) | 0 |  |
@@ -18,13 +18,13 @@ CGS Title 36B · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <h
 | Sec. 36b-12 | [0036b-0012.md](0036b-0012.md) | 0 |  |
 | Sec. 36b-13 | [0036b-0013.md](0036b-0013.md) | 0 |  |
 | Sec. 36b-14 | [0036b-0014.md](0036b-0014.md) | 0 |  |
-| Sec. 36b-15 | [0036b-0015.md](0036b-0015.md) | 0 |  |
+| Sec. 36b-15 | [0036b-0015.md](0036b-0015.md) | 1 | 2026-01-01 |
 | Sec. 36b-16 | [0036b-0016.md](0036b-0016.md) | 0 |  |
 | Sec. 36b-17 | [0036b-0017.md](0036b-0017.md) | 0 |  |
 | Sec. 36b-18 | [0036b-0018.md](0036b-0018.md) | 0 |  |
 | Sec. 36b-19 | [0036b-0019.md](0036b-0019.md) | 0 |  |
 | Sec. 36b-20 | [0036b-0020.md](0036b-0020.md) | 0 |  |
-| Sec. 36b-21 | [0036b-0021.md](0036b-0021.md) | 0 |  |
+| Sec. 36b-21 | [0036b-0021.md](0036b-0021.md) | 1 | 2026-01-01 |
 | Sec. 36b-22 | [0036b-0022.md](0036b-0022.md) | 0 |  |
 | Sec. 36b-22a | [0036b-0022a.md](0036b-0022a.md) | 0 |  |
 | Sec. 36b-23 | [0036b-0023.md](0036b-0023.md) | 0 |  |

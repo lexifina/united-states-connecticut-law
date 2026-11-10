@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 4A: Administrative Services
 
-CGS Title 4A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_04a.htm>
+CGS Title 4A · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_04a.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,9 +22,9 @@ CGS Title 4A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4a-7a | [0004a-0007a.md](0004a-0007a.md) | 0 |  |
 | Sec. 4a-8 | [0004a-0008.md](0004a-0008.md) | 0 |  |
 | Sec. 4a-9 | [0004a-0009.md](0004a-0009.md) | 0 |  |
-| Sec. 4a-10 | [0004a-0010.md](0004a-0010.md) | 0 |  |
+| Sec. 4a-10 | [0004a-0010.md](0004a-0010.md) | 1 | 2026-01-01 |
 | Sec. 4a-10a | [0004a-0010a.md](0004a-0010a.md) | 0 |  |
-| Sec. 4a-11 | [0004a-0011.md](0004a-0011.md) | 0 |  |
+| Sec. 4a-11 | [0004a-0011.md](0004a-0011.md) | 1 | 2026-01-01 |
 | Sec. 4a-11a | [0004a-0011a.md](0004a-0011a.md) | 0 |  |
 | Sec. 4a-11b | [0004a-0011b.md](0004a-0011b.md) | 0 |  |
 | Sec. 4a-11c | [0004a-0011c.md](0004a-0011c.md) | 0 |  |
@@ -45,10 +45,13 @@ CGS Title 4A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4a-50 | [0004a-0050.md](0004a-0050.md) | 0 |  |
 | Sec. 4a-51 | [0004a-0051.md](0004a-0051.md) | 0 |  |
 | Sec. 4a-52 | [0004a-0052.md](0004a-0052.md) | 0 |  |
-| Sec. 4a-52a | [0004a-0052a.md](0004a-0052a.md) | 0 |  |
+| Sec. 4a-52a | [0004a-0052a.md](0004a-0052a.md) | 1 | 2026-01-01 |
 | Sec. 4a-52b | [0004a-0052b.md](0004a-0052b.md) | 0 |  |
 | Sec. 4a-53 | [0004a-0053.md](0004a-0053.md) | 0 |  |
 | Sec. 4a-53a | [0004a-0053a.md](0004a-0053a.md) | 0 |  |
+| Sec. 4a-53b | [0004a-0053b.md](0004a-0053b.md) | 1 | 2026-01-01 |
+| Sec. 4a-53c | [0004a-0053c.md](0004a-0053c.md) | 1 | 2026-01-01 |
+| Sec. 4a-53d | [0004a-0053d.md](0004a-0053d.md) | 1 | 2026-01-01 |
 | Sec. 4a-54 | [0004a-0054.md](0004a-0054.md) | 0 |  |
 | Sec. 4a-55 | [0004a-0055.md](0004a-0055.md) | 0 |  |
 | Sec. 4a-56 | [0004a-0056.md](0004a-0056.md) | 0 |  |
@@ -57,15 +60,15 @@ CGS Title 4A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4a-57b | [0004a-0057b.md](0004a-0057b.md) | 0 |  |
 | Sec. 4a-57c | [0004a-0057c.md](0004a-0057c.md) | 0 |  |
 | Sec. 4a-57d | [0004a-0057d.md](0004a-0057d.md) | 0 |  |
-| Sec. 4a-57e | [0004a-0057e.md](0004a-0057e.md) | 0 |  |
+| Sec. 4a-57e | [0004a-0057e.md](0004a-0057e.md) | 1 | 2026-01-01 |
 | Sec. 4a-58 | [0004a-0058.md](0004a-0058.md) | 0 |  |
 | Sec. 4a-59 | [0004a-0059.md](0004a-0059.md) | 0 |  |
 | Sec. 4a-59a | [0004a-0059a.md](0004a-0059a.md) | 0 |  |
-| Sec. 4a-60 | [0004a-0060.md](0004a-0060.md) | 0 |  |
-| Sec. 4a-60a | [0004a-0060a.md](0004a-0060a.md) | 0 |  |
+| Sec. 4a-60 | [0004a-0060.md](0004a-0060.md) | 1 | 2026-01-01 |
+| Sec. 4a-60a | [0004a-0060a.md](0004a-0060a.md) | 1 | 2026-01-01 |
 | Sec. 4a-60b | [0004a-0060b.md](0004a-0060b.md) | 0 |  |
-| Sec. 4a-60g | [0004a-0060g.md](0004a-0060g.md) | 0 |  |
-| Sec. 4a-60h | [0004a-0060h.md](0004a-0060h.md) | 0 |  |
+| Sec. 4a-60g | [0004a-0060g.md](0004a-0060g.md) | 1 | 2026-01-01 |
+| Sec. 4a-60h | [0004a-0060h.md](0004a-0060h.md) | 1 | 2026-01-01 |
 | Sec. 4a-60i | [0004a-0060i.md](0004a-0060i.md) | 0 |  |
 | Sec. 4a-60j | [0004a-0060j.md](0004a-0060j.md) | 0 |  |
 | Sec. 4a-61 | [0004a-0061.md](0004a-0061.md) | 0 |  |
@@ -83,6 +86,7 @@ CGS Title 4A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4a-67f | [0004a-0067f.md](0004a-0067f.md) | 0 |  |
 | Sec. 4a-67g | [0004a-0067g.md](0004a-0067g.md) | 0 |  |
 | Sec. 4a-67h | [0004a-0067h.md](0004a-0067h.md) | 0 |  |
+| Sec. 4a-67i | [0004a-0067i.md](0004a-0067i.md) | 1 | 2026-01-01 |
 | Sec. 4a-70a | [0004a-0070a.md](0004a-0070a.md) | 0 |  |
 | Sec. 4a-71 | [0004a-0071.md](0004a-0071.md) | 0 |  |
 | Sec. 4a-72 | [0004a-0072.md](0004a-0072.md) | 0 |  |

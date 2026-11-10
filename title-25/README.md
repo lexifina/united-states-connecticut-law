@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 25: Water Resources. Flood and Erosion Control
 
-CGS Title 25 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_25.htm>
+CGS Title 25 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_25.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,7 +25,7 @@ CGS Title 25 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 25-32l | [0025-0032l.md](0025-0032l.md) | 0 |  |
 | Sec. 25-32m | [0025-0032m.md](0025-0032m.md) | 0 |  |
 | Sec. 25-32n | [0025-0032n.md](0025-0032n.md) | 0 |  |
-| Sec. 25-33 | [0025-0033.md](0025-0033.md) | 0 |  |
+| Sec. 25-33 | [0025-0033.md](0025-0033.md) | 1 | 2026-01-01 |
 | Sec. 25-33a | [0025-0033a.md](0025-0033a.md) | 0 |  |
 | Sec. 25-33b | [0025-0033b.md](0025-0033b.md) | 0 |  |
 | Sec. 25-33c | [0025-0033c.md](0025-0033c.md) | 0 |  |
@@ -83,7 +83,7 @@ CGS Title 25 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 25-54w | [0025-0054w.md](0025-0054w.md) | 0 |  |
 | Sec. 25-68b | [0025-0068b.md](0025-0068b.md) | 0 |  |
 | Sec. 25-68c | [0025-0068c.md](0025-0068c.md) | 0 |  |
-| Sec. 25-68d | [0025-0068d.md](0025-0068d.md) | 0 |  |
+| Sec. 25-68d | [0025-0068d.md](0025-0068d.md) | 1 | 2026-01-01 |
 | Sec. 25-68e | [0025-0068e.md](0025-0068e.md) | 0 |  |
 | Sec. 25-68f | [0025-0068f.md](0025-0068f.md) | 0 |  |
 | Sec. 25-68g | [0025-0068g.md](0025-0068g.md) | 0 |  |
@@ -94,7 +94,7 @@ CGS Title 25 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 25-68l | [0025-0068l.md](0025-0068l.md) | 0 |  |
 | Sec. 25-68m | [0025-0068m.md](0025-0068m.md) | 0 |  |
 | Sec. 25-68n | [0025-0068n.md](0025-0068n.md) | 0 |  |
-| Sec. 25-68o | [0025-0068o.md](0025-0068o.md) | 0 |  |
+| Sec. 25-68o | [0025-0068o.md](0025-0068o.md) | 1 | 2026-01-01 |
 | Sec. 25-69 | [0025-0069.md](0025-0069.md) | 0 |  |
 | Sec. 25-70 | [0025-0070.md](0025-0070.md) | 0 |  |
 | Sec. 25-71 | [0025-0071.md](0025-0071.md) | 0 |  |
@@ -185,7 +185,7 @@ CGS Title 25 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 25-135 | [0025-0135.md](0025-0135.md) | 0 |  |
 | Sec. 25-136 | [0025-0136.md](0025-0136.md) | 0 |  |
 | Sec. 25-137 | [0025-0137.md](0025-0137.md) | 0 |  |
-| Sec. 25-156 | [0025-0156.md](0025-0156.md) | 0 |  |
+| Sec. 25-156 | [0025-0156.md](0025-0156.md) | 1 | 2026-01-01 |
 | Sec. 25-157 | [0025-0157.md](0025-0157.md) | 0 |  |
 | Sec. 25-157a | [0025-0157a.md](0025-0157a.md) | 0 |  |
 | Sec. 25-157b | [0025-0157b.md](0025-0157b.md) | 0 |  |

@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 28: Civil Preparedness and Emergency Services
 
-CGS Title 28 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_28.htm>
+CGS Title 28 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_28.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,7 +15,7 @@ CGS Title 28 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 28-2 | [0028-0002.md](0028-0002.md) | 0 |  |
 | Sec. 28-3 | [0028-0003.md](0028-0003.md) | 0 |  |
 | Sec. 28-4 | [0028-0004.md](0028-0004.md) | 0 |  |
-| Sec. 28-5 | [0028-0005.md](0028-0005.md) | 0 |  |
+| Sec. 28-5 | [0028-0005.md](0028-0005.md) | 1 | 2026-01-01 |
 | Sec. 28-5a | [0028-0005a.md](0028-0005a.md) | 0 |  |
 | Sec. 28-6 | [0028-0006.md](0028-0006.md) | 0 |  |
 | Sec. 28-7 | [0028-0007.md](0028-0007.md) | 0 |  |
@@ -66,6 +66,9 @@ CGS Title 28 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 28-30d | [0028-0030d.md](0028-0030d.md) | 0 |  |
 | Sec. 28-30e | [0028-0030e.md](0028-0030e.md) | 0 |  |
 | Sec. 28-30f | [0028-0030f.md](0028-0030f.md) | 0 |  |
-| Sec. 28-31 | [0028-0031.md](0028-0031.md) | 0 |  |
+| Sec. 28-31 | [0028-0031.md](0028-0031.md) | 1 | 2026-01-01 |
+| Sec. 28-31a | [0028-0031a.md](0028-0031a.md) | 1 | 2026-01-01 |
+| Sec. 28-31b | [0028-0031b.md](0028-0031b.md) | 1 | 2026-01-01 |
 | Sec. 28-32 | [0028-0032.md](0028-0032.md) | 0 |  |
 | Sec. 28-32a | [0028-0032a.md](0028-0032a.md) | 0 |  |
+| Sec. 28-33 | [0028-0033.md](0028-0033.md) | 1 | 2026-01-01 |

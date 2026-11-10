@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 4D: State Information and Telecommunication Systems
 
-CGS Title 4D · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_04d.htm>
+CGS Title 4D · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_04d.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -39,13 +39,14 @@ CGS Title 4D · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 4d-44 | [0004d-0044.md](0004d-0044.md) | 0 |  |
 | Sec. 4d-47 | [0004d-0047.md](0004d-0047.md) | 0 |  |
 | Sec. 4d-48 | [0004d-0048.md](0004d-0048.md) | 0 |  |
-| Sec. 4d-80 | [0004d-0080.md](0004d-0080.md) | 0 |  |
+| Sec. 4d-80 | [0004d-0080.md](0004d-0080.md) | 1 | 2026-01-01 |
 | Sec. 4d-81 | [0004d-0081.md](0004d-0081.md) | 0 |  |
 | Sec. 4d-81a | [0004d-0081a.md](0004d-0081a.md) | 0 |  |
 | Sec. 4d-82 | [0004d-0082.md](0004d-0082.md) | 0 |  |
-| Sec. 4d-82a | [0004d-0082a.md](0004d-0082a.md) | 0 |  |
+| Sec. 4d-82a | [0004d-0082a.md](0004d-0082a.md) | 1 | 2026-01-01 |
 | Sec. 4d-83 | [0004d-0083.md](0004d-0083.md) | 0 |  |
 | Sec. 4d-90 | [0004d-0090.md](0004d-0090.md) | 0 |  |
 | Sec. 4d-91 | [0004d-0091.md](0004d-0091.md) | 0 |  |
+| Sec. 4d-91a | [0004d-0091a.md](0004d-0091a.md) | 1 | 2026-01-01 |
 | Sec. 4d-92 | [0004d-0092.md](0004d-0092.md) | 0 |  |
 | Sec. 4d-100 | [0004d-0100.md](0004d-0100.md) | 0 |  |

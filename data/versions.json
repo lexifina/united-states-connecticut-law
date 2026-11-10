@@ -62,6 +62,12 @@
      "units": 350,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_47.htm",
      "sha256": "08592b5d5cd6edb23d73496284b95b97940334dba9c646449aacc43e8e1faf5b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 351,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_47.htm",
+     "sha256": "7ebe5c8e106cd6fba97d77e8f22974d2190cb50c34a12a3e670d50a9a014c9c9"
     }
    ]
   },
@@ -94,6 +100,12 @@
      "units": 145,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_47a.htm",
      "sha256": "465ab1f66cc13e61a8e6ea162e160894809ba33bc92b6259062843a53ef43113"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 147,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_47a.htm",
+     "sha256": "142be02422779d8251bfebb0955db283503ec0e72c4aae70f7e34ac15d6cc51c"
     }
    ]
   },
@@ -126,6 +138,18 @@
      "units": 423,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_53a.htm",
      "sha256": "b9d928b77934bcf9c8e064d27b4ebb72b11bf7b6d2fd25a3519e3ea21f63e4d5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 424,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_53a.htm",
+     "sha256": "2bedf8f28203e47fd491e26fa8c6a4039a109288a1c5c55fe6c4412052f19a6b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 424,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_53a.htm",
+     "sha256": "8875a3d0499af3acfce01adbeead937bf16fa11c148f20755b762e73ca8c52de"
     }
    ]
   },
@@ -140,6 +164,12 @@
      "units": 296,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_01.htm",
      "sha256": "b4745b121e4ee15a897a30d141ef68f1be2d42ee64ba897bca78a17f7870ada2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 296,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_01.htm",
+     "sha256": "e8eeec1e33e4c9b3477db04936135194718b5bab953c61def658382d239a4167"
     }
    ]
   },
@@ -154,6 +184,12 @@
      "units": 187,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_02.htm",
      "sha256": "56aa9567afeabf77ee1385a3fc99153fe6e0750214d244206d57e5f192334c0e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 191,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_02.htm",
+     "sha256": "343200c030e23b9a1335e95e76feafde8cc8ad0a292e470b21ab52f2e78c32b9"
     }
    ]
   },
@@ -182,6 +218,18 @@
      "units": 409,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_03.htm",
      "sha256": "c78c5ff277cc060d86ae60f8394c2def218dc29e24ad521ed1fbb4cd4cdb4294"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 409,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_03.htm",
+     "sha256": "a82eedd466c338f5decbbc666b8f27e402c576c7c66398734a358e554add27a9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 414,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_03.htm",
+     "sha256": "137889604dc6606c53bef61352635e7fc0a03d37e49207ffc5af5ff7432f6399"
     }
    ]
   },
@@ -196,6 +244,12 @@
      "units": 508,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04.htm",
      "sha256": "7d9691c83d88ffa12721e85ec75ab8a5645bd73d4dbcb74325532388614ba546"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 515,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_04.htm",
+     "sha256": "9826e81f0f655ca57334eb45ecd74a6d60a8739f3be5141e9c9687a2b59d4e73"
     }
    ]
   },
@@ -210,6 +264,12 @@
      "units": 94,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04a.htm",
      "sha256": "d8eabc0af146a3a15e25e0e400533f0fd81909f64021e299e43137e43f008b24"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 98,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_04a.htm",
+     "sha256": "1b5923c8d3599ddd3ab10cb297ea3d81f509fb8aca4861430703e90fb5306463"
     }
    ]
   },
@@ -224,6 +284,12 @@
      "units": 103,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04b.htm",
      "sha256": "c9051906f2a9c5a0a0abed61a733da9f6f5b3d4459323a3635ca3d5c430f93e4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 104,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_04b.htm",
+     "sha256": "2f093f2fbf11efb451129746bc4dd426a170d73b5a8962410b24a0ee6d3670d4"
     }
    ]
   },
@@ -238,6 +304,12 @@
      "units": 45,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04d.htm",
      "sha256": "07a920be9dfb6f8bbae63d4413befacde079598269014a6eb8c6800e0106cdfa"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 46,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_04d.htm",
+     "sha256": "0260c9a50538ae481beb4ebae4448d2e44c1a25b4a3fffa068fa3ddf414d1dd8"
     }
    ]
   },
@@ -252,6 +324,12 @@
      "units": 56,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04e.htm",
      "sha256": "58cb99d2293d69b96b765b1e04baff896a95f5ef9151a667541b93cc8241b523"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 56,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_04e.htm",
+     "sha256": "37028732d084781eb4954ee514059cb58f225d4eb99ef80fa38ae5bca1d6862a"
     }
    ]
   },
@@ -266,6 +344,12 @@
      "units": 276,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_05.htm",
      "sha256": "4a9025921ce81e904485adab65127fecfd5f9dfd836c7186d255fa533e13da89"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 277,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_05.htm",
+     "sha256": "f91bfd234f2c8123dc10bedb40169b0b8c389cb7da11f548c0281edc28e906ba"
     }
    ]
   },
@@ -280,6 +364,12 @@
      "units": 43,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_06.htm",
      "sha256": "3e919939c0433fd9bf285177b418eba84d34ce9c564aeea6acf9875fcfe706ae"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_06.htm",
+     "sha256": "fe7daf36d76e1e065484d316d1bd808da25eac1c2ad1d1e4e78d7dbe0a1c895e"
     }
    ]
   },
@@ -294,6 +384,18 @@
      "units": 1088,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_07.htm",
      "sha256": "8626922c8bb5e5a1ecd06e353ad0d642f5248237b608acbf6279f39827afbc3a"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 1088,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_07.htm",
+     "sha256": "1d3c54eca820080300db28262af6eaa4b0ebc1dd5a38c1305e11bfe3aec59fd9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1107,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_07.htm",
+     "sha256": "6f0574066d3825f029efb8435cc895abb624aebdf683c5989d136eca8b1c4aea"
     }
    ]
   },
@@ -308,6 +410,12 @@
      "units": 723,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_08.htm",
      "sha256": "39f292f3f5ad7dd5797f4dbf54401f005f274c42e251589ac7c1d246c3c8e5e9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 746,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_08.htm",
+     "sha256": "febdc38e9b7facb0fa357e948584dad6eb7e47c3dfd07ad24a8cc7c9430cb7a4"
     }
    ]
   },
@@ -322,6 +430,12 @@
      "units": 660,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_09.htm",
      "sha256": "f6d6d5929bc454b81028a04905d453b30d2545c0f034cc918ad4143ecb66316b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 663,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_09.htm",
+     "sha256": "fab7f8e4a3da1cb3acc5dd57786098e0fabda3fb4ee1d9beba870fb7cd6110a8"
     }
    ]
   },
@@ -336,6 +450,24 @@
      "units": 1255,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_10.htm",
      "sha256": "b431b5e8d2fb49bc452f76712c58281a4afbc18c81d422eb7f9202c76865d8a7"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 1255,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_10.htm",
+     "sha256": "1d43314afad163dfe9a12f22ffafb192de4bd1afa717bfdd708929f948ac4fd6"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1302,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_10.htm",
+     "sha256": "77d621479ac152165f66fcc871ca797a9b4a4722f324e836d0285a199288be55"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 1302,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_10.htm",
+     "sha256": "81e08dda2d22d5798fcddf483da1d0efbb32d52b85c40030df7f61821ce000ea"
     }
    ]
   },
@@ -350,6 +482,18 @@
      "units": 530,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_10a.htm",
      "sha256": "bd0b5c31a00308ac977277fadcfd1431f1a7b9363c5254728165593315bd8eaa"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 544,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_10a.htm",
+     "sha256": "450cecd7b0983a2e216d9229aea40169ab554af98197e4f51d457a7269c94264"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 544,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_10a.htm",
+     "sha256": "c9d5748d0e50db1a4eb6209009759446e1241ee7baf61caf665c5dcf940d83a1"
     }
    ]
   },
@@ -364,6 +508,12 @@
      "units": 87,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_11.htm",
      "sha256": "22c43190c01f1f1e3842fa2f7dc1e30ba932d9f5ce1a3324d7d3f04de0cce0be"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 89,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_11.htm",
+     "sha256": "e431389eee54e2884b24d2bbec685bd600a703386f9963f055f2474578422ab4"
     }
    ]
   },
@@ -378,6 +528,24 @@
      "units": 1301,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_12.htm",
      "sha256": "76efc474f5bd95586ed2afbe4dde1da6e81a3f56cbd43b8b8e0759a1e8dd4eb4"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 1301,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_12.htm",
+     "sha256": "70b56280c6ad3756f9451dcc012efacf7e69e02a38101a93525f6d85eb65e194"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1317,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_12.htm",
+     "sha256": "44581829e8a3a44d4e19453572e6cd628cede91bc2a7519bd9274d77aea82284"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 1317,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_12.htm",
+     "sha256": "3aeb19ff51c658943bfdd59c3b92f4a98a85dac19748b148fea9661770632bdc"
     }
    ]
   },
@@ -392,6 +560,12 @@
      "units": 325,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_13a.htm",
      "sha256": "36b66620fc76c8168be025c8240bb0ac22694716b1abc908d0cbacfc01b97dc8"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 325,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_13a.htm",
+     "sha256": "c7e3dee67ab8e92cc1926a74d59d69beb6a5389776d09f0f4eb72c728bc0cfa4"
     }
    ]
   },
@@ -406,6 +580,12 @@
      "units": 438,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_13b.htm",
      "sha256": "47b894661fc38c57d2fc948788d42eeaf40c689f177ab4ffa06f2286148d5ab5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 439,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_13b.htm",
+     "sha256": "5b13b69156d7803564db29fb096818259c46679b1de6aeb2ea16f6bd38e5f9b4"
     }
    ]
   },
@@ -420,6 +600,12 @@
      "units": 764,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_14.htm",
      "sha256": "d02695516d9e7bde96324e8c0ec9deab02c157e904efda46575f0c945c9d425c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 777,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_14.htm",
+     "sha256": "dd8e188260714db218bce87e22c64b9d4495c523c02dc12c6e1818b37a10770b"
     }
    ]
   },
@@ -434,6 +620,12 @@
      "units": 271,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_15.htm",
      "sha256": "4618aa4f08830f6d8d3b651d6d7b10eed24f9099473875e6443c594833f3a965"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 277,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_15.htm",
+     "sha256": "fc80aeb3bb96544734bbf0024e37cc9bd4a7f06ac264f11a10813c2f4b0d1f26"
     }
    ]
   },
@@ -448,6 +640,12 @@
      "units": 509,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_16.htm",
      "sha256": "804ff2c8c423863a2ec6814f75066149e78414d0b12f0dde2f205c31700424cc"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 519,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_16.htm",
+     "sha256": "d08720dc3bc575e092116b0fd524d783387e14cf59f8226a76ce2ae2461a3181"
     }
    ]
   },
@@ -462,6 +660,12 @@
      "units": 201,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_16a.htm",
      "sha256": "3c33c9a2c7e7300b8fcd907a20510f9f0fd36422240a8bf7d19a2b6a107e1756"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 205,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_16a.htm",
+     "sha256": "361beb2bca914bf7be1c95fb58a75b8cb61338fcea6ee097421565fc6e2ab36c"
     }
    ]
   },
@@ -476,6 +680,12 @@
      "units": 718,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_17a.htm",
      "sha256": "a48da45fd0deeb20710e08e2e9e702f73a1c38c2b5b0afc30b6bbcf06f365afb"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 725,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_17a.htm",
+     "sha256": "e95efee2c6f3b089714ab23a42be41a11de10531366e7bf0ccf433d8e3afde90"
     }
    ]
   },
@@ -490,6 +700,18 @@
      "units": 638,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_17b.htm",
      "sha256": "7123cae5adfb8c7e8c0be52417405d94f2c4fc07d3bface283510d0227dc8b82"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 638,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_17b.htm",
+     "sha256": "c75922b9c7e696e4f0a4b2869641712414dd5e2f07ad96118d71d0a573d038a0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 643,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_17b.htm",
+     "sha256": "2743d5decad0933dbf0c4eeda6087c5d191430acda773c5ebf978fe98fe904e3"
     }
    ]
   },
@@ -504,6 +726,12 @@
      "units": 172,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_18.htm",
      "sha256": "5b71c4f37abbebf6f460db0d63bba8d088ec899322089c7db3a8551aadf573c9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 181,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_18.htm",
+     "sha256": "a521634fa030c665d7f60c7ea9953c20b6fde970df21b7ace3e8c7f16fda6d5c"
     }
    ]
   },
@@ -518,6 +746,12 @@
      "units": 1074,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_19a.htm",
      "sha256": "48663ec71cef24df783371597af1e69acbcf717c5a04ef687f4b199ec74bd8d6"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1097,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_19a.htm",
+     "sha256": "6b48d72a865786741b5bcdad47507adcff8e5df9eb96ff2b9dad02488ebc7de5"
     }
    ]
   },
@@ -532,6 +766,18 @@
      "units": 1095,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_20.htm",
      "sha256": "a40b1ed54d86c869af6baf99494ac330f279bda2de1438ee8e909a57a4dc2866"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 1095,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_20.htm",
+     "sha256": "1a62fc969af9ef537e10642ae3529b521ec21ebf7ea6feecc07e40e11f95f8d9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1112,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_20.htm",
+     "sha256": "3c8999738bc99f7c24fe61b3c2fc5aa6a57706623175160567f1410b0fd3a971"
     }
    ]
   },
@@ -546,6 +792,12 @@
      "units": 119,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_21.htm",
      "sha256": "f4dde6d463557aaaa61388919dc3602e8a6a6786f344d97df516fdf175919ce4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 120,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_21.htm",
+     "sha256": "e11c09193428a094545588d7909fecc0edec38e99026907f433b31bbe83356f7"
     }
    ]
   },
@@ -560,6 +812,12 @@
      "units": 466,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_21a.htm",
      "sha256": "ae31a11967d7e7c3348303a9e08a8796ad751acb56494ac108aa771746cf900a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 479,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_21a.htm",
+     "sha256": "451e2a5dd4d30f41e77105aa9fffdd6275961c6e3e07c91b151df596650c8c8b"
     }
    ]
   },
@@ -574,6 +832,12 @@
      "units": 571,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_22.htm",
      "sha256": "60be67b2ea4dc88051015bc3ca6b2bfa99d78156f29a59dd297ad516754f94af"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 577,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_22.htm",
+     "sha256": "3b713c0b159f35eef1ddfc895e559e6130da4f5df8ec3cbd5320c36b46f60c5f"
     }
    ]
   },
@@ -588,6 +852,12 @@
      "units": 1016,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_22a.htm",
      "sha256": "3fe70153d44840732421b519f83cf8995198e7be80049ba58bae49f2dd844183"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1030,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_22a.htm",
+     "sha256": "efcfb23c25b7f0cf75b618b85503473d7d12e1e48c9025967f075961f73ee64f"
     }
    ]
   },
@@ -602,6 +872,12 @@
      "units": 156,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_23.htm",
      "sha256": "8b651b61575e439244d255e41aef41c1805df0e0f527dddf35b8f3a7a0dc08d2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 156,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_23.htm",
+     "sha256": "dfe936082b492fbf975949e0c323c939eedb802840d7306e1ddab18f8bce77b9"
     }
    ]
   },
@@ -630,6 +906,12 @@
      "units": 222,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_25.htm",
      "sha256": "7a8bf62f3e159d4095c087b523e962fe45aa9b426b488f72a1b1f1999205281d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 222,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_25.htm",
+     "sha256": "12d852b9af7f0de1e9b62671ec92ce244e42431b2fb4575f63d26db1e4c2fcba"
     }
    ]
   },
@@ -644,6 +926,12 @@
      "units": 389,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_26.htm",
      "sha256": "5778be76ada2c8fb83814562a87a20479ff6c58835f4e13f245b0eeb3454393d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 390,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_26.htm",
+     "sha256": "8eeaffda4635a84843250cae564ab590bf0a152d270622b2ae4be9a4e4839d15"
     }
    ]
   },
@@ -658,6 +946,12 @@
      "units": 316,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_27.htm",
      "sha256": "1a83b75e2168cec567d594bb9647fe62ce40ee4881007691fb1e190862139e04"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 316,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_27.htm",
+     "sha256": "52783f6ec518c7b9d77d9c70f1a91c56625e7ecbdb5cfc57fad963d2c6bd8609"
     }
    ]
   },
@@ -672,6 +966,12 @@
      "units": 65,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_28.htm",
      "sha256": "6e0a0b6f668fb397956ac9e4842f3ee03ef2ef4f42bc1274d3ab06b1052c43d2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 68,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_28.htm",
+     "sha256": "92a006f8c3d20598c883377c4a578b24be41bb76923314eb76bfdd75b5de91bc"
     }
    ]
   },
@@ -686,6 +986,12 @@
      "units": 540,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_29.htm",
      "sha256": "3b4549805acc486bc8ce1ae625b2727f770c6a502a9416d6aa8da6cd807053b1"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 544,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_29.htm",
+     "sha256": "c41db4f84f1d1627d44f78adb17dc7950bbb351cbc171242995ad4f054d30c88"
     }
    ]
   },
@@ -700,6 +1006,12 @@
      "units": 204,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_30.htm",
      "sha256": "a53e82fd8de02d5103ecb0dc8ae5c8a768c96d4f0fc46fa83ee6db4077026fae"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 204,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_30.htm",
+     "sha256": "0683c8b950893f7a911c6061d2358925095e3aeecf7bf76de025c622b19ec655"
     }
    ]
   },
@@ -714,6 +1026,12 @@
      "units": 694,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_31.htm",
      "sha256": "c6e8c6e050673cb14c9b1b27927ec6e81477b67628a9bb9c7fc89404f4013448"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 695,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_31.htm",
+     "sha256": "e04771a49d97bff90d7f464ad24d5ec02dd3e6ff4562bf743ba9ffb66dc3384d"
     }
    ]
   },
@@ -728,6 +1046,18 @@
      "units": 530,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_32.htm",
      "sha256": "ba2a63614da30125a047c5b1e694be3bb27ff07b10b8985d9900b69ccc24a2b4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 538,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_32.htm",
+     "sha256": "a2278cfc2ae22f9aee5ce69b3d59b961971608640298700f6ed205911c7fb2c7"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 538,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_32.htm",
+     "sha256": "4ea1f3a4d763ed5a808783f3f52ba376406b895079792bd59fd3d63799e3c436"
     }
    ]
   },
@@ -742,6 +1072,12 @@
      "units": 339,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_34.htm",
      "sha256": "18ba6e2f945c510dbe71d88478817ef33b2ffb774d2aa4681533d58e58ca28ec"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 339,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_34.htm",
+     "sha256": "b15fe13380613ddeb0a3875450f452fb4cc3a1a8c123f54e53f3f03c5a9ff312"
     }
    ]
   },
@@ -770,6 +1106,12 @@
      "units": 637,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_36a.htm",
      "sha256": "00f3c59288fcb1c172ac8bfa86f0404fe70a1f979e3bb865af31f2b38cd91c18"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 640,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_36a.htm",
+     "sha256": "bfc53af55976ba5dd7b5e4bdbf564055b80cd05bec404d941e8d7141ccf0013e"
     }
    ]
   },
@@ -784,6 +1126,12 @@
      "units": 70,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_36b.htm",
      "sha256": "f615dc31dfe02b15e8f40e103383bd1767c2c415cdf0b9c5f8be7b7390682936"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 70,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_36b.htm",
+     "sha256": "1797058c2a63f08b8f9e5cb54912e05054db2b0a29695c36ae18f28ab7297aa2"
     }
    ]
   },
@@ -812,6 +1160,18 @@
      "units": 1323,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_38a.htm",
      "sha256": "f2c4480b82a149fa4fcb3872a5500c16c778dc2498412f4dfac706d8d14a8ddf"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1323,
+     "source_url": "https://www.cga.ct.gov/2025/pub/title_38a.htm",
+     "sha256": "c3673380cb28cff7804c0c4f28bacd72f2d88a7a1350a390f964c8b9cbbbb057"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1337,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_38a.htm",
+     "sha256": "15027beb85cc83c3e66cf0d444034bae4ac416060182f607b54dcd4427652c29"
     }
    ]
   },
@@ -854,6 +1214,18 @@
      "units": 413,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_42.htm",
      "sha256": "252b377f61f4d972554914c41f6c05018cf0a82cdc4f636581ffa15c466dd179"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 418,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_42.htm",
+     "sha256": "993a6d60b08e1385158ac14aa925db3b0a4f8b91bb341a7bf7348011bd22b82c"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 418,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_42.htm",
+     "sha256": "df03f645ce1909ddd201f5bbef08210507057873944762a1603fc4b2e4b4db4c"
     }
    ]
   },
@@ -868,6 +1240,12 @@
      "units": 640,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_42a.htm",
      "sha256": "3dd8e761ab0256e5f4bc1c1102c3b9544dfc36d0e41cac411a3c7c09ab67ad15"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 654,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_42a.htm",
+     "sha256": "fb0eaa2247ee16a9663426c88bc59baaf8878d9f8b56b7d1fcd5f978af69a74f"
     }
    ]
   },
@@ -924,6 +1302,12 @@
      "units": 837,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_45a.htm",
      "sha256": "9c9138005f14f902f25f1f81d51b2bb62a585db86a250d16e9af16942ce26d98"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 837,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_45a.htm",
+     "sha256": "f4a7b603174119be80f3ef13218b61a0f52c59f4d6c25585d94f69180d4760af"
     }
    ]
   },
@@ -938,6 +1322,12 @@
      "units": 175,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_46a.htm",
      "sha256": "bafd011499b08e6c55bfaea9dfafdbcacfb28ce821d6e82ec90f4f255fc9bb6e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 176,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_46a.htm",
+     "sha256": "bc278111a15bfcf9e8832d8d28f63bbe6dfc82212566101154bfcf05b37de065"
     }
    ]
   },
@@ -952,6 +1342,12 @@
      "units": 520,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_46b.htm",
      "sha256": "c4da589c851cf22f3f9c1f62ad75545a3792bf50196ffba88b7a54a330286680"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 546,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_46b.htm",
+     "sha256": "e2a9c249f0d11509dc3eeadb030e2a47b31b4c33c0dfe628bed783aadbb60d9f"
     }
    ]
   },
@@ -966,6 +1362,12 @@
      "units": 33,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_48.htm",
      "sha256": "c20ea04ede60ec5726e262c3b986496de0cd756673c6b9f3e48fd142663eb180"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_48.htm",
+     "sha256": "1f082a5cf8cab8d801a93e9dc4ec40684c3f0fd31e65e5459abd3f3cf7d636d2"
     }
    ]
   },
@@ -980,6 +1382,12 @@
      "units": 177,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_49.htm",
      "sha256": "28289b1d02f0554165f6ee4b329019c3c561604a96a6f1270810c772b0bc92bb"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 179,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_49.htm",
+     "sha256": "cef6943bcd69f368b02e1ac5a4825f252157be34fe345fea9cc75062305a972b"
     }
    ]
   },
@@ -1022,6 +1430,18 @@
      "units": 448,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_51.htm",
      "sha256": "4c9353e4df217a0eefb11c41dc002641c435e873ceb8f1e71864a743db5b70ff"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 451,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_51.htm",
+     "sha256": "1865cb11bff35ffa609eab26702424ef3b95a6fff1bfb458e8c10ebea1a6a4aa"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 451,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_51.htm",
+     "sha256": "c216cd8af9c356807216e223ed19ebd22e985d84fa9cc0f244425fd63d3fad25"
     }
    ]
   },
@@ -1036,6 +1456,12 @@
      "units": 877,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_52.htm",
      "sha256": "91e0c1fc581ac6e54a97eebeeb45b9f18ccd55c5b5c77c366ccf2f78f1dbc2dd"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 900,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_52.htm",
+     "sha256": "34db454d91bf62ea37f7467e4384b1618f5144d57d2b0abe6b606938dd741b45"
     }
    ]
   },
@@ -1050,6 +1476,12 @@
      "units": 225,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_53.htm",
      "sha256": "41a8115dd6018527d2a632a5cd7fed4c6a832ead9fc5c56b868345d79dc2796f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 225,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_53.htm",
+     "sha256": "3c2949b62b82b712b212029aec43093fe7533b642055035cf824d5a8a00d3e6e"
     }
    ]
   },
@@ -1064,6 +1496,18 @@
      "units": 529,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_54.htm",
      "sha256": "1caeb7107e0a4e04265f23be32669520bf8b509b41fee1af211e8fb5c42603ce"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 530,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_54.htm",
+     "sha256": "33736ff32be9ee0daf701b48a224576b2f85d7e03e7d4ea0686e11b4f18acde9"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 530,
+     "source_url": "https://www.cga.ct.gov/2026/sup/title_54.htm",
+     "sha256": "ac6a86859c6aeff36dd0d11aceb4d510256c8da37b2780afbb1a3cbd4d0e2a28"
     }
    ]
   },

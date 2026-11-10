@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 34: Limited Partnerships, Partnerships, Professional Associations, Limited Liability Companies and Statutory Trusts
 
-CGS Title 34 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_34.htm>
+CGS Title 34 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_34.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -109,7 +109,7 @@ CGS Title 34 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 34-243o | [0034-0243o.md](0034-0243o.md) | 0 |  |
 | Sec. 34-243p | [0034-0243p.md](0034-0243p.md) | 0 |  |
 | Sec. 34-243q | [0034-0243q.md](0034-0243q.md) | 0 |  |
-| Sec. 34-243r | [0034-0243r.md](0034-0243r.md) | 0 |  |
+| Sec. 34-243r | [0034-0243r.md](0034-0243r.md) | 1 | 2026-01-01 |
 | Sec. 34-243s | [0034-0243s.md](0034-0243s.md) | 0 |  |
 | Sec. 34-243t | [0034-0243t.md](0034-0243t.md) | 0 |  |
 | Sec. 34-243u | [0034-0243u.md](0034-0243u.md) | 0 |  |
@@ -155,7 +155,7 @@ CGS Title 34 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 34-267d | [0034-0267d.md](0034-0267d.md) | 0 |  |
 | Sec. 34-267e | [0034-0267e.md](0034-0267e.md) | 0 |  |
 | Sec. 34-267f | [0034-0267f.md](0034-0267f.md) | 0 |  |
-| Sec. 34-267g | [0034-0267g.md](0034-0267g.md) | 0 |  |
+| Sec. 34-267g | [0034-0267g.md](0034-0267g.md) | 1 | 2026-01-01 |
 | Sec. 34-271 | [0034-0271.md](0034-0271.md) | 0 |  |
 | Sec. 34-271a | [0034-0271a.md](0034-0271a.md) | 0 |  |
 | Sec. 34-271b | [0034-0271b.md](0034-0271b.md) | 0 |  |

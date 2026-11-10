@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 11: Libraries and Museums
 
-CGS Title 11 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_11.htm>
+CGS Title 11 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_11.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ CGS Title 11 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 11-8a | [0011-0008a.md](0011-0008a.md) | 0 |  |
 | Sec. 11-8b | [0011-0008b.md](0011-0008b.md) | 0 |  |
 | Sec. 11-8c | [0011-0008c.md](0011-0008c.md) | 0 |  |
-| Sec. 11-8i | [0011-0008i.md](0011-0008i.md) | 0 |  |
+| Sec. 11-8i | [0011-0008i.md](0011-0008i.md) | 1 | 2026-01-01 |
 | Sec. 11-8j | [0011-0008j.md](0011-0008j.md) | 0 |  |
 | Sec. 11-8k | [0011-0008k.md](0011-0008k.md) | 0 |  |
 | Sec. 11-8l | [0011-0008l.md](0011-0008l.md) | 0 |  |
@@ -49,6 +49,7 @@ CGS Title 11 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 11-19e | [0011-0019e.md](0011-0019e.md) | 0 |  |
 | Sec. 11-20 | [0011-0020.md](0011-0020.md) | 0 |  |
 | Sec. 11-21 | [0011-0021.md](0011-0021.md) | 0 |  |
+| Sec. 11-21a | [0011-0021a.md](0011-0021a.md) | 1 | 2026-01-01 |
 | Sec. 11-22 | [0011-0022.md](0011-0022.md) | 0 |  |
 | Sec. 11-23 | [0011-0023.md](0011-0023.md) | 0 |  |
 | Sec. 11-23a | [0011-0023a.md](0011-0023a.md) | 0 |  |
@@ -56,9 +57,10 @@ CGS Title 11 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 11-23c | [0011-0023c.md](0011-0023c.md) | 0 |  |
 | Sec. 11-24 | [0011-0024.md](0011-0024.md) | 0 |  |
 | Sec. 11-24a | [0011-0024a.md](0011-0024a.md) | 0 |  |
-| Sec. 11-24b | [0011-0024b.md](0011-0024b.md) | 0 |  |
+| Sec. 11-24b | [0011-0024b.md](0011-0024b.md) | 1 | 2026-01-01 |
 | Sec. 11-24c | [0011-0024c.md](0011-0024c.md) | 0 |  |
 | Sec. 11-24d | [0011-0024d.md](0011-0024d.md) | 0 |  |
+| Sec. 11-24e | [0011-0024e.md](0011-0024e.md) | 1 | 2026-01-01 |
 | Sec. 11-25 | [0011-0025.md](0011-0025.md) | 0 |  |
 | Sec. 11-26 | [0011-0026.md](0011-0026.md) | 0 |  |
 | Sec. 11-27 | [0011-0027.md](0011-0027.md) | 0 |  |
