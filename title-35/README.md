@@ -1,15 +1,15 @@
 # General Statutes of Connecticut, Title 35: Trade Regulations, Trademarks and Collective and Certification Marks
 
-CGS Title 35 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_35.htm>
+CGS Title 35 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_35.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Sec. 35-1 | [0035-0001.md](0035-0001.md) | 0 |  |
-| Sec. 35-1a | [0035-0001a.md](0035-0001a.md) | 0 |  |
-| Sec. 35-1b | [0035-0001b.md](0035-0001b.md) | 0 |  |
-| Sec. 35-1c | [0035-0001c.md](0035-0001c.md) | 0 |  |
-| Sec. 35-1d | [0035-0001d.md](0035-0001d.md) | 0 |  |
-| Sec. 35-1e | [0035-0001e.md](0035-0001e.md) | 0 |  |
+| Sec. 35-1 | [0035-0001.md](0035-0001.md) | 2 | 2025-01-01 |
+| Sec. 35-1a | [0035-0001a.md](0035-0001a.md) | 1 | 2025-01-01 |
+| Sec. 35-1b | [0035-0001b.md](0035-0001b.md) | 1 | 2025-01-01 |
+| Sec. 35-1c | [0035-0001c.md](0035-0001c.md) | 1 | 2025-01-01 |
+| Sec. 35-1d | [0035-0001d.md](0035-0001d.md) | 1 | 2025-01-01 |
+| Sec. 35-1e | [0035-0001e.md](0035-0001e.md) | 1 | 2025-01-01 |
 | Sec. 35-2 | [0035-0002.md](0035-0002.md) | 0 |  |
 | Sec. 35-3 | [0035-0003.md](0035-0003.md) | 0 |  |
 | Sec. 35-3a | [0035-0003a.md](0035-0003a.md) | 0 |  |
@@ -63,7 +63,7 @@ CGS Title 35 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <ht
 | Sec. 35-39 | [0035-0039.md](0035-0039.md) | 0 |  |
 | Sec. 35-40 | [0035-0040.md](0035-0040.md) | 0 |  |
 | Sec. 35-41 | [0035-0041.md](0035-0041.md) | 0 |  |
-| Sec. 35-42 | [0035-0042.md](0035-0042.md) | 0 |  |
+| Sec. 35-42 | [0035-0042.md](0035-0042.md) | 1 | 2025-01-01 |
 | Sec. 35-43 | [0035-0043.md](0035-0043.md) | 0 |  |
 | Sec. 35-44 | [0035-0044.md](0035-0044.md) | 0 |  |
 | Sec. 35-44a | [0035-0044a.md](0035-0044a.md) | 0 |  |

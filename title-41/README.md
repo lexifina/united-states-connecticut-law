@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 41: Bills of Lading
 
-CGS Title 41 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_41.htm>
+CGS Title 41 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_41.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

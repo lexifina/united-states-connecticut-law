@@ -160,6 +160,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_01.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 296,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_01.htm",
+     "sha256": "bef11b07d2fb28821bd41359a4da49bce86f21a43e8078f882adbd871d75fdd2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 297,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_01.htm",
+     "sha256": "a6b13d8d044ac5de40d3c7d8b9b00e63e1c26a123deb3b734f6f5e6fd1511267"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 296,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_01.htm",
+     "sha256": "02635e0a36c70dac9817a33c5645b6626ec444d1da34024499c254e5a53ab2af"
+    },
+    {
      "from": "2025-01-01",
      "units": 296,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_01.htm",
@@ -180,6 +198,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_02.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 178,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_02.htm",
+     "sha256": "1fce82c459f44aa7ca4e0883a21d2fe3face7a7ec32088d8e4f33cecd70ea9ff"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 179,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_02.htm",
+     "sha256": "65f8a2d329f468ccd373169634dabb4272050e7567d59c9461615ec751b91faf"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 188,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_02.htm",
+     "sha256": "938ab045a1fb41c3d2de7fddccca6db1944b80ef12a81b97d442d0598bf2c26a"
+    },
+    {
      "from": "2025-01-01",
      "units": 187,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_02.htm",
@@ -199,6 +235,24 @@
    "title": "General Statutes of Connecticut, Title 2C: Review and Termination of Governmental Entities and Programs",
    "url": "https://www.cga.ct.gov/current/pub/title_02c.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_02c.htm",
+     "sha256": "6e8de604b9be4bf59ebed765bde9a2981d653c3e4bdace8015d7e08a2ca60e9d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_02c.htm",
+     "sha256": "34b6f78b7b5b7a82021379a61476834cf979ee4d321f3059a5b91a5a74f161f5"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_02c.htm",
+     "sha256": "f1679bc77bdfa943a798424141473b22938219bfe9afed594fa4b82691f3bac1"
+    },
     {
      "from": "2025-01-01",
      "units": 5,
@@ -260,6 +314,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_04a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 91,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_04a.htm",
+     "sha256": "f8670e6389218f619bcf0ac9bf6bfd73a3ca972d3e41768fde6f2a27510b4ad3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 91,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_04a.htm",
+     "sha256": "74e7df9d7940a6f1ae835ff8a62429537208e0f9c35d7224984ffab08e92197e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 93,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_04a.htm",
+     "sha256": "1b6af506eb54f1adc58ac1ec591245130a61db8108e2374f442cff78cb6f943d"
+    },
+    {
      "from": "2025-01-01",
      "units": 94,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04a.htm",
@@ -279,6 +351,24 @@
    "title": "General Statutes of Connecticut, Title 4B: State Real Property",
    "url": "https://www.cga.ct.gov/current/pub/title_04b.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 98,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_04b.htm",
+     "sha256": "c4540fd8fb476d4d02293e54f4f4ca625785dbe14955cc2cd597a69288f1070a"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 98,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_04b.htm",
+     "sha256": "d336f6d364f0a1867f8ffa98ed994af9c9909cc09753d509860ea1e045d84fc2"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 100,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_04b.htm",
+     "sha256": "6d41205dbb09a62b57f7c52fca27f77a16b92678cd713f48936ab026caa98335"
+    },
     {
      "from": "2025-01-01",
      "units": 103,
@@ -300,6 +390,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_04d.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_04d.htm",
+     "sha256": "b0b58c799ca422de573f28779c6ef7d2b0daa2b5b9dee627cfa9345ae5aa3fb1"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_04d.htm",
+     "sha256": "36ca7295c96ba79b20ad245683097e5a86b2d3046c5d104f7e86311b077cc288"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 45,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_04d.htm",
+     "sha256": "ac1ed9df65692c26a6260268b2c942b6f236c2372885d99ff66814f0326f2f75"
+    },
+    {
      "from": "2025-01-01",
      "units": 45,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_04d.htm",
@@ -319,6 +427,24 @@
    "title": "General Statutes of Connecticut, Title 4E: State Contracting",
    "url": "https://www.cga.ct.gov/current/pub/title_04e.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 53,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_04e.htm",
+     "sha256": "1227c2f18d4b066dc5e87e93be90a19ee06ea1278cc4c59c682058a4d4142716"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 53,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_04e.htm",
+     "sha256": "c3e920938c3a85b34533efb90a5f573bb53ea3369ab37f0361be91b98077eb0e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 55,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_04e.htm",
+     "sha256": "61b2d31b194db986049620992622d0cd2e41a2ac107a158bb62c8a15f9882578"
+    },
     {
      "from": "2025-01-01",
      "units": 56,
@@ -360,6 +486,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_06.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_06.htm",
+     "sha256": "5bea35945630225dafdf8bf68219c8077ed51219e11d4e08aa071225e0e019ee"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_06.htm",
+     "sha256": "d253ef36f5677bf57d981d54058cb52b617a697a055ef7b9416f1e88edcea4b6"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 43,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_06.htm",
+     "sha256": "d169bb0ec338466cdf95be4db757c22b1fc5c0e0079feebc18acb4bc0a5a4db3"
+    },
+    {
      "from": "2025-01-01",
      "units": 43,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_06.htm",
@@ -379,6 +523,24 @@
    "title": "General Statutes of Connecticut, Title 7: Municipalities",
    "url": "https://www.cga.ct.gov/current/pub/title_07.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1028,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_07.htm",
+     "sha256": "4c3519eb261c917387be38ba67ba3d73096a6f054de5e146e08fdaa610184f0b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 1040,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_07.htm",
+     "sha256": "b2a3d7e510415d80a1f119a2c3fdd5f5633c4acec3752d189a43b2853e0715f1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 1062,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_07.htm",
+     "sha256": "a4c49d1c6aa21c67ecc5dc6345b4fa0113ce167b89e81979649a9f943297667b"
+    },
     {
      "from": "2025-01-01",
      "units": 1088,
@@ -406,6 +568,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_08.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 678,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_08.htm",
+     "sha256": "b4f3ed0f5e49d09f2b2d10180226abb35bc7ac304315b755da7bec5d2c2b46cc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 696,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_08.htm",
+     "sha256": "70f516a41932c08ed1f96205f73e01870897ae8c8b5ed86c35025f6e1451ca25"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 702,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_08.htm",
+     "sha256": "e54543f6fce64b44047b776d8bd919fa7568b8c5f6cc3f36b99fdfec05ddbf5e"
+    },
+    {
      "from": "2025-01-01",
      "units": 723,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_08.htm",
@@ -426,6 +606,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_09.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 639,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_09.htm",
+     "sha256": "e66fcdc046900c8e3b4b68f3fd9b054eac71c3ece07aa282f664d2179f238d08"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 640,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_09.htm",
+     "sha256": "a64c5bbea5dbe02d66f89cba95785025f44be750a20dc9f9b68c35ed0cf66efe"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 644,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_09.htm",
+     "sha256": "101cf8654564cf7adefcfdf5e71f716a8b37586ea5647de6cb3f828fe7ea60ce"
+    },
+    {
      "from": "2025-01-01",
      "units": 660,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_09.htm",
@@ -445,6 +643,24 @@
    "title": "General Statutes of Connecticut, Title 10: Education and Culture",
    "url": "https://www.cga.ct.gov/current/pub/title_10.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1080,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_10.htm",
+     "sha256": "fb9a2a653045165834fc3ac047cddfd56a535832415dd3d3530c4394cada4fbb"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 1118,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_10.htm",
+     "sha256": "7213079d71845d06069088b0bb463c9f7ecee815a7f081c02fd90c243ef7e905"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 1175,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_10.htm",
+     "sha256": "44d1285af51f05ec924adbf721089b2373903e45402ea146bd0bf63e16bfa9a3"
+    },
     {
      "from": "2025-01-01",
      "units": 1255,
@@ -478,6 +694,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_10a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 482,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_10a.htm",
+     "sha256": "b920dbd062105a028da331550e559bf7d76f31355884a0a95b2fa3c41f60c0a4"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 491,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_10a.htm",
+     "sha256": "58517befdbf9a1909ec95b9f04a3e9c3317cfc39032cc05b5201197790a2e55d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 515,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_10a.htm",
+     "sha256": "f259bc38dab5a264be1414f2a735bb856ea4954d4448a3628f8673bac9f627f7"
+    },
+    {
      "from": "2025-01-01",
      "units": 530,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_10a.htm",
@@ -503,6 +737,24 @@
    "title": "General Statutes of Connecticut, Title 11: Libraries and Museums",
    "url": "https://www.cga.ct.gov/current/pub/title_11.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 87,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_11.htm",
+     "sha256": "5296102c57b4a718d581eadd1df17cd89e59ed8019af124a9a19f6c4f103bef3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 87,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_11.htm",
+     "sha256": "fd04b40806a77cd8de857eaafc1e1245937c6c23fcbdc5a75951c17c480c1a32"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 87,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_11.htm",
+     "sha256": "d338791e42129a32ab3910523cddc44d57557ce4125aa0739b81cdad238b41ee"
+    },
     {
      "from": "2025-01-01",
      "units": 87,
@@ -556,6 +808,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_13a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 313,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_13a.htm",
+     "sha256": "958d643dc7c7ed5c21972319e506fabcfe08521fb4b3c2795d1a837cdfc6cde7"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 315,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_13a.htm",
+     "sha256": "2e485f615c44b4b1b8d1a4cefe7bace7c1eda884f0bd236820efe78f9c991c98"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 323,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_13a.htm",
+     "sha256": "410053e046317d2e8eef73b8425529897d07200f42bd043939f73526316670b8"
+    },
+    {
      "from": "2025-01-01",
      "units": 325,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_13a.htm",
@@ -575,6 +845,24 @@
    "title": "General Statutes of Connecticut, Title 13B: Transportation",
    "url": "https://www.cga.ct.gov/current/pub/title_13b.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 407,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_13b.htm",
+     "sha256": "9cf1ceacf12e240d2e2a0abe607a44cb250acfa7afa4e4b363ce4c83de25f0b3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 407,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_13b.htm",
+     "sha256": "b44df0e5e3261adf402430d9c259e65c34788c18e25a0d63798e7606286b10f9"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 427,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_13b.htm",
+     "sha256": "0e9a9773d7f3ed47a045008da3f0f31ddc668932b69c8d3998a790c4401e67e4"
+    },
     {
      "from": "2025-01-01",
      "units": 438,
@@ -616,6 +904,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_15.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 260,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_15.htm",
+     "sha256": "6e259ea39bab126c8f3f1d086cd25e876235f2501cad97b871356c7108485196"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 260,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_15.htm",
+     "sha256": "059d244ee3c0169139c118a2d5013ec4e9c697828f661f6f320f28c18e6f4262"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 263,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_15.htm",
+     "sha256": "de06c5b13b6ac05ec5e47c4a8ae1f8caa77fa73988f1e4419bf3d27da21450e4"
+    },
+    {
      "from": "2025-01-01",
      "units": 271,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_15.htm",
@@ -635,6 +941,24 @@
    "title": "General Statutes of Connecticut, Title 16: Public Service Companies",
    "url": "https://www.cga.ct.gov/current/pub/title_16.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 482,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_16.htm",
+     "sha256": "a94dd7f60ace95c25934b3cb42d53bbee6f40e13cb33b24503a862b241fecc35"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 490,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_16.htm",
+     "sha256": "59dca9c2ab5719026603d79b71be158a4d6b6e17aa8dcfabe7a3d748c08549ef"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 501,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_16.htm",
+     "sha256": "56960d4b8c6ab22842822bbfd4bafea04d55c4e138cff4a80303b525cd8d2b5a"
+    },
     {
      "from": "2025-01-01",
      "units": 509,
@@ -656,6 +980,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_16a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 189,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_16a.htm",
+     "sha256": "d73a062fae9635fc0517b9b3b203ba09f358414a02792845ccde1f9a37114d7e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 193,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_16a.htm",
+     "sha256": "dbb86490de58fe5ad853c9bec39c6c823a2f6f81e18bfe5c63759e313bbba864"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 194,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_16a.htm",
+     "sha256": "459c377a3d5216b0b8c8d8bee98830d89826dcc03ddf359775d77df4f2fe6fde"
+    },
+    {
      "from": "2025-01-01",
      "units": 201,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_16a.htm",
@@ -676,6 +1018,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_17a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 608,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_17a.htm",
+     "sha256": "6f58d671cea996a3e19ee45fcd6d38b747f0c2b0fa593811bf84aaddda12bf2c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 611,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_17a.htm",
+     "sha256": "27d4ab22c36b8b97b0931fd72be4a5539ceeed84d57cf7c4485102954b05aacd"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 694,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_17a.htm",
+     "sha256": "1384ecae4a0b43476bc1c20700887e37e2af498b445726981621d66a4db570f1"
+    },
+    {
      "from": "2025-01-01",
      "units": 718,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_17a.htm",
@@ -695,6 +1055,24 @@
    "title": "General Statutes of Connecticut, Title 17B: Social Services",
    "url": "https://www.cga.ct.gov/current/pub/title_17b.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 627,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_17b.htm",
+     "sha256": "0380bff894c744846de030c40aa3e8dad341a4993096c4d517a9b7b6aa2933ed"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 632,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_17b.htm",
+     "sha256": "89ac4ab68004f8f95842c560eaaa1d48e9e318e27b17ed7030265566d63390e9"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 633,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_17b.htm",
+     "sha256": "27343cb94ef5f90ef58ebaca17514c2192a33e6df530488c56ab3847a07a3d8d"
+    },
     {
      "from": "2025-01-01",
      "units": 638,
@@ -722,6 +1100,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_18.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 160,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_18.htm",
+     "sha256": "0e94fd40500a9d8ff24a9931150bacc2ad8b734ddb9c4c6266426a41f31c17e3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 166,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_18.htm",
+     "sha256": "caa18a1b47dd5d692d71aa0d9a1d47987a9e19623cb2a54bc7fdb9c62968e8db"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 172,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_18.htm",
+     "sha256": "f6a986347f4aa480dbf2281ede1cc73da2a866b0e0930f8cd04015dfdd2c79b2"
+    },
+    {
      "from": "2025-01-01",
      "units": 172,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_18.htm",
@@ -742,6 +1138,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_19a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 936,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_19a.htm",
+     "sha256": "57a25d6efa06c3a93ff2822671dd660accea4571c44883556cf4c25a9133b8d2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 949,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_19a.htm",
+     "sha256": "69696ec0afd9e9ca04e45563d40a7b7c83fba9dc3eabbb930e3a03456512e5aa"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 1027,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_19a.htm",
+     "sha256": "629b98ff1c9c8b556de637afb08afe65fcc86343927e972aa2d1877001a4806d"
+    },
+    {
      "from": "2025-01-01",
      "units": 1074,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_19a.htm",
@@ -761,6 +1175,24 @@
    "title": "General Statutes of Connecticut, Title 20: Professional and Occupational Licensing, Certification, Title Protection and Registration. Examining Boards",
    "url": "https://www.cga.ct.gov/current/pub/title_20.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1005,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_20.htm",
+     "sha256": "d83c921c225d7f802b84ecd9447b4fa1235e2cfd990f5f0cff466d7a0f0c8619"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 1026,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_20.htm",
+     "sha256": "00987ff45a3b2f7bf2d81e41665e2686f7bedf6d46f854a8bf0ecae2f4b9300f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 1041,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_20.htm",
+     "sha256": "14fa92400f0d0a97f711a558d5ee78820cd88c423db81b4b66925352f9f51bdc"
+    },
     {
      "from": "2025-01-01",
      "units": 1095,
@@ -788,6 +1220,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_21.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 117,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_21.htm",
+     "sha256": "532037f96ddad59309064642c028e1cc29c34d6014071694cb0e46dba150c23b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 117,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_21.htm",
+     "sha256": "3c9bc2b549866c64da9a8e90089f8da032bf1a2d513812f866e1426ef0e59dda"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 117,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_21.htm",
+     "sha256": "e08775eb69fe649fdd7b6b61c79b828c379f103019b574840b5af943d0418b13"
+    },
+    {
      "from": "2025-01-01",
      "units": 119,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_21.htm",
@@ -807,6 +1257,24 @@
    "title": "General Statutes of Connecticut, Title 21A: Consumer Protection",
    "url": "https://www.cga.ct.gov/current/pub/title_21a.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 356,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_21a.htm",
+     "sha256": "1b60c556c1986d5c14e573d5b05bbeb3367d2ae82ee3b27c918c6f8e58e56e3e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 360,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_21a.htm",
+     "sha256": "39790d1de2b9539f15fce6bc5cbfef94e2d683a48e235697150c70c02bbec6df"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 454,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_21a.htm",
+     "sha256": "b1613dd40844e304d1ead44faf6815e2ca0bce1d498fd6990aeaabb1c739bc86"
+    },
     {
      "from": "2025-01-01",
      "units": 466,
@@ -828,6 +1296,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_22.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 574,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_22.htm",
+     "sha256": "af2ceb93c55abf91387c1a9b6771fcd101606e615b721a91ac5f72f76fca6274"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 579,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_22.htm",
+     "sha256": "ec3d6df7536b33ee661d1de321b0f8e7ee319da4f543987d740017b16fcaaf0b"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 568,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_22.htm",
+     "sha256": "be5f45f0e318d95c40462fb6b08f3db8386e13c46639b3e4770b46b2d4e502d5"
+    },
+    {
      "from": "2025-01-01",
      "units": 571,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_22.htm",
@@ -847,6 +1333,24 @@
    "title": "General Statutes of Connecticut, Title 22A: Environmental Protection",
    "url": "https://www.cga.ct.gov/current/pub/title_22a.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 953,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_22a.htm",
+     "sha256": "af75c3056a60897cab4b9d3461651d0ed2f3ff2b4e4f111bc0efc942e9a1fd6e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 968,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_22a.htm",
+     "sha256": "2c39eb37e9b6c97853827ae3d3da70dbb34beb3b459ca58b0efea5fe69ac5be5"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 989,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_22a.htm",
+     "sha256": "4008d432cd60bcb7a7711b16fea87bb44ec42d848d204f0fe1e6bc64985397b7"
+    },
     {
      "from": "2025-01-01",
      "units": 1016,
@@ -868,6 +1372,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_23.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 151,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_23.htm",
+     "sha256": "72345f17ec13a362731b61bf675b91887af28ab1ec2872d4c8a1367887fdb88d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 151,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_23.htm",
+     "sha256": "e10de4babf4af134dbf08c6e0ee46d1b54c7a2ab25450cba4278e2e41a599d08"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 154,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_23.htm",
+     "sha256": "02c17ac930a16803212f0c98b65c86c11feff76d0b26d9a7860fc61b504edbe1"
+    },
+    {
      "from": "2025-01-01",
      "units": 156,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_23.htm",
@@ -888,6 +1410,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_24.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_24.htm",
+     "sha256": "5be1d1b6b2dcfe839f20ec5c95b360750d9b9f3af9b9ab4fbd6cbc38f3d00d4f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_24.htm",
+     "sha256": "5be1d1b6b2dcfe839f20ec5c95b360750d9b9f3af9b9ab4fbd6cbc38f3d00d4f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_24.htm",
+     "sha256": "a03221fd9f23e9aee3566282036aa3ca2489cbbc5d4a55e0366f11df9d70ddcb"
+    },
+    {
      "from": "2025-01-01",
      "units": 5,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_24.htm",
@@ -901,6 +1441,24 @@
    "title": "General Statutes of Connecticut, Title 25: Water Resources. Flood and Erosion Control",
    "url": "https://www.cga.ct.gov/current/pub/title_25.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 226,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_25.htm",
+     "sha256": "c00475b507bcb6bf5d8d23a2726ae9e830a073e67c5595e98270c0466641481d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 226,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_25.htm",
+     "sha256": "72d79c6df53202d29f5aa42ad5e96503ac8ba68dde1956d8ccc638192fe07991"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 226,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_25.htm",
+     "sha256": "fbb54d78746121fe3d6bcda6b6a5755bffa5a9bbcdba98ae157a81231776327f"
+    },
     {
      "from": "2025-01-01",
      "units": 222,
@@ -922,6 +1480,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_26.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 384,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_26.htm",
+     "sha256": "dfae403dc5b8467cb77d67554eec9a07c3900ed330f54d0d64dca4382c46bf39"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 385,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_26.htm",
+     "sha256": "41c1da6c08398288b7a97577e7ad254883d49834686fea0837655e0f562aa981"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 388,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_26.htm",
+     "sha256": "7126971756b813437c4c7463cd800fcc8e52a73a1a00e077f179ec1ab0e2ac06"
+    },
+    {
      "from": "2025-01-01",
      "units": 389,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_26.htm",
@@ -941,6 +1517,24 @@
    "title": "General Statutes of Connecticut, Title 27: Armed Forces and Veterans",
    "url": "https://www.cga.ct.gov/current/pub/title_27.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 311,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_27.htm",
+     "sha256": "4980895ff05d57a7da270b7337ed4d186d0a4391d940cce43cb60ca163838bae"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 312,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_27.htm",
+     "sha256": "681e766fb939e91f5a1e04401d2e041454002c95e8608a04636b92e2815f7d3e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 315,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_27.htm",
+     "sha256": "e62d96b3c9fc13fb76416e2c0f79a43bf77d0acd16b4373f729b63f733ad2a0b"
+    },
     {
      "from": "2025-01-01",
      "units": 316,
@@ -962,6 +1556,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_28.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 63,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_28.htm",
+     "sha256": "7bcdf090efbdbdb323abd7b07e2e825bf51a734b4f5285621f970885ceeef0ea"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 64,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_28.htm",
+     "sha256": "591117db83ae184243d304c60d5661b2ce8bea38bdf398218dd8bf83bfc62c77"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 64,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_28.htm",
+     "sha256": "a1b942e2d832d6941ffc6748566bc7d5c889435bcc7502d603734a6ff63f127b"
+    },
+    {
      "from": "2025-01-01",
      "units": 65,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_28.htm",
@@ -981,6 +1593,24 @@
    "title": "General Statutes of Connecticut, Title 29: Public Safety and State Police",
    "url": "https://www.cga.ct.gov/current/pub/title_29.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 518,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_29.htm",
+     "sha256": "da4889c4c064b52f364934c8e71657355765c35e038f528a2b8402da8cc71264"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 524,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_29.htm",
+     "sha256": "67bac1aab210e68be5090d600f8f67dd53c9e00fb04209f1f8b2a2f3bef1472d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 529,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_29.htm",
+     "sha256": "2f09fcb05ee015f1b7d9ee12638106355d00cdfa88f8413321ac8b857109de30"
+    },
     {
      "from": "2025-01-01",
      "units": 540,
@@ -1002,6 +1632,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_30.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 189,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_30.htm",
+     "sha256": "8d56d322a8b341081ec6851e2b4b7d08d9c84ab7d4e265dc4ff8536848ecc6a4"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 189,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_30.htm",
+     "sha256": "89424dd2ed78c8a983c3ddb2e9936536303301655b197c2c5464c8c748f62a48"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 198,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_30.htm",
+     "sha256": "d1a8313b72f1ba9518455ab8bee8b56110df59ac863bc912a0f2e20b7e34ca3f"
+    },
+    {
      "from": "2025-01-01",
      "units": 204,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_30.htm",
@@ -1022,6 +1670,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_31.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 690,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_31.htm",
+     "sha256": "d2cae19dff21004b23d5746cafa3215d05f226e9bf7b082dc8e8ac8d14de8a97"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 712,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_31.htm",
+     "sha256": "a997745060e1fb899360ea2fe6f4e9b14186da12dbc737424b39da000feb4195"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 712,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_31.htm",
+     "sha256": "65833854442b89230df61f0358042a2525dda5c3968fa76342f367093d5b0438"
+    },
+    {
      "from": "2025-01-01",
      "units": 694,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_31.htm",
@@ -1041,6 +1707,24 @@
    "title": "General Statutes of Connecticut, Title 32: Commerce and Economic and Community Development",
    "url": "https://www.cga.ct.gov/current/pub/title_32.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 514,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_32.htm",
+     "sha256": "6f11a5a8793488b606e0b0308f97f8e22f0a5d61544f3a0431c4d8090392f98e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 519,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_32.htm",
+     "sha256": "bb4b5b170a00af0c067cd050e8c1abc6e6f41de8990e8f8eddd309c37b57be0e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 531,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_32.htm",
+     "sha256": "133401b5aeab4fce8fef53b553e89484cc182100d0f87dc2f6d995729735c70e"
+    },
     {
      "from": "2025-01-01",
      "units": 530,
@@ -1068,6 +1752,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_34.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 334,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_34.htm",
+     "sha256": "ca29f6762abec7f6c4edcea4acf650136b92b242d35e670395c130aac002cdb8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 334,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_34.htm",
+     "sha256": "7492c1ccdb3c27e3f90b12d28d83d80c4a86fea3985b934f865259b97ec8b67f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 334,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_34.htm",
+     "sha256": "8cb2fa2fca7b07804b1fa34e6460f05b683e2c7f27c54e46d2a3d2f825cc567e"
+    },
+    {
      "from": "2025-01-01",
      "units": 339,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_34.htm",
@@ -1088,6 +1790,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_35.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 71,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_35.htm",
+     "sha256": "992b68024f1f8224a96072e60f5260bd592018f0e72ae59253072e979b9148c7"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 71,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_35.htm",
+     "sha256": "3e2c544e9383547066a2288b4da199903d7be21f8766172ba1b1718690e756a1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 71,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_35.htm",
+     "sha256": "4d260e1d4d2ba0e9a77e27758615149516ae878d00ba297b3644da1df2e49b78"
+    },
+    {
      "from": "2025-01-01",
      "units": 76,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_35.htm",
@@ -1101,6 +1821,24 @@
    "title": "General Statutes of Connecticut, Title 36A: The Banking Law of Connecticut",
    "url": "https://www.cga.ct.gov/current/pub/title_36a.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 609,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_36a.htm",
+     "sha256": "744e05c7860d090e11de71d093e2d52e14f0cf9fcc9a05382160781f8f5edda9"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 609,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_36a.htm",
+     "sha256": "dda5399a832857b181c9c14e25ef6b811edcd214fccdcb395f8c6ba8458a9b0a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 616,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_36a.htm",
+     "sha256": "c84eb05e280a79af3a82bd0808a77ca4466cbf674367316c85cb86da55c976ca"
+    },
     {
      "from": "2025-01-01",
      "units": 637,
@@ -1122,6 +1860,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_36b.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 70,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_36b.htm",
+     "sha256": "1e0272b0eee542c31bce023be82215d02a7d148d9fc8b9e884b966da831345e8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 70,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_36b.htm",
+     "sha256": "f6ecd4f58f208bf8d1ae70b36a9d00af2fff3c6c71972cfad016b0c21866600e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 70,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_36b.htm",
+     "sha256": "7391cf5ebd3b9e46c0e1d3800cac2a3b890c40dbcdc2c832c83c70af463da1bd"
+    },
+    {
      "from": "2025-01-01",
      "units": 70,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_36b.htm",
@@ -1141,6 +1897,24 @@
    "title": "General Statutes of Connecticut, Title 37: Interest",
    "url": "https://www.cga.ct.gov/current/pub/title_37.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_37.htm",
+     "sha256": "869721baf986986c2b6bb6a6787db60b098f27782b596041107df876404ef83c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 14,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_37.htm",
+     "sha256": "0b845d2103a547539f0cc14a2673db9734b9c32a612702809bbf5a781e20b06a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 14,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_37.htm",
+     "sha256": "8aa77ee867e2f6244ea3ab228e038d4532aa74a63aad5e3b1bf55915dc3e43b9"
+    },
     {
      "from": "2025-01-01",
      "units": 14,
@@ -1182,6 +1956,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_40.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_40.htm",
+     "sha256": "7811572960d545edeb50a8db1767246e2c02e8d747a523da694eef757fa978dc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_40.htm",
+     "sha256": "7a13af56ad8088220c51ed2ba53513b00949679755658fc4f61c99b659332c40"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_40.htm",
+     "sha256": "8d14b8d91c7d69a046883f1a88b6013ac87958e4a76ad050362749273462e2ef"
+    },
+    {
      "from": "2025-01-01",
      "units": 7,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_40.htm",
@@ -1196,6 +1988,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_41.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_41.htm",
+     "sha256": "fcc08756039f86b350ce8fd2c21551a525756bc09c40b1f9f7a1df5b5a4cf627"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_41.htm",
+     "sha256": "9dcac9118b71f29b60f051b214ce906bfea75b43f39cb1a110c7b0a9bc1a1f92"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_41.htm",
+     "sha256": "678ec59ce722320763046b971fa3e3526dea6c8fa2415acd115cb4e5e0ed05d7"
+    },
+    {
      "from": "2025-01-01",
      "units": 7,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_41.htm",
@@ -1209,6 +2019,24 @@
    "title": "General Statutes of Connecticut, Title 42: Business, Selling, Trading and Collection Practices",
    "url": "https://www.cga.ct.gov/current/pub/title_42.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 386,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_42.htm",
+     "sha256": "3a859bfadd00b8fb14d3ccbca5a623cd4c36e2fd35e5b0203916a6a5d62799f0"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 386,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_42.htm",
+     "sha256": "5437f6225cc650d94f5c06376f21cbc1e8a6d63d9c90ab3e95e77358334d238c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 398,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_42.htm",
+     "sha256": "2fd4abbb7bbb35d9377808d7c34489b7776556306a471138f0f0000792664e82"
+    },
     {
      "from": "2025-01-01",
      "units": 413,
@@ -1236,6 +2064,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_42a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 640,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_42a.htm",
+     "sha256": "f1f57a3b6510e0bd48139ad6116ee947d483f06bdd1c1cca1b1db59f06d98456"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 640,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_42a.htm",
+     "sha256": "b8f38e3d57de8c2dd343493985fd3f787250fd12111084bd4cef1e38fa47fa16"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 640,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_42a.htm",
+     "sha256": "12e02f46c44aa2e23f85d56272fe48d824fe17c0c1f34cf3b3b8a9daed60c1f2"
+    },
+    {
      "from": "2025-01-01",
      "units": 640,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_42a.htm",
@@ -1256,6 +2102,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_42b.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_42b.htm",
+     "sha256": "091d96fa2b8166655ac78119a95e8c79dbe7b11c352cfb83f40518429c7063e1"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_42b.htm",
+     "sha256": "0ab463f044230f6da9c9d871d5c6fd4e5727f5cb84769594169e912a4083dce0"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 15,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_42b.htm",
+     "sha256": "011932b5fca3fb8a3733e75b48cee22ff7edf71fb87e29192d862384159fd689"
+    },
+    {
      "from": "2025-01-01",
      "units": 15,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_42b.htm",
@@ -1269,6 +2133,24 @@
    "title": "General Statutes of Connecticut, Title 43: Weights and Measures",
    "url": "https://www.cga.ct.gov/current/pub/title_43.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 67,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_43.htm",
+     "sha256": "6a7ec087a0952fd85dec0a1c8e76ac25f28e3887493b03945c0d83b097b8565a"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 67,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_43.htm",
+     "sha256": "db29eac1fa429ed70c4e72becccdf9a64ba0dc934ca86fb72eedbacb98c9b14c"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 67,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_43.htm",
+     "sha256": "06bb631806d6db5674e57070dd573d9cef4a7066a227a6551e49f2425b541d0c"
+    },
     {
      "from": "2025-01-01",
      "units": 67,
@@ -1284,6 +2166,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_44.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_44.htm",
+     "sha256": "fc707adb4c49a49f5b07f6c7f636d04892c8b4fa7b5e53afddece550255bcfdc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_44.htm",
+     "sha256": "3258e13d02e7ae34a6be6438adadaeaf4e36904cafdb6d5f19dfc57d1bf53040"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_44.htm",
+     "sha256": "c912ae1b46ffc7955f01c533740cd936e0583c5111155e9df41ca4ebb5d95c19"
+    },
+    {
      "from": "2025-01-01",
      "units": 6,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_44.htm",
@@ -1297,6 +2197,24 @@
    "title": "General Statutes of Connecticut, Title 45A: Probate Courts and Procedure",
    "url": "https://www.cga.ct.gov/current/pub/title_45a.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 708,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_45a.htm",
+     "sha256": "0b7e23dfc10590a4bc975323ba91062b7202acde3104928d66bc458511df4756"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 812,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_45a.htm",
+     "sha256": "2def804e812725807cf12bbd82508f165ed68dcc35e262001b7e69c23e493bfd"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 807,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_45a.htm",
+     "sha256": "76def0a13796dc6618a2e0cbe6cc073d71e61469e8349b97c976801237e972c1"
+    },
     {
      "from": "2025-01-01",
      "units": 837,
@@ -1318,6 +2236,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_46a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 164,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_46a.htm",
+     "sha256": "e41a48485b7c48f0c777e2698e940a7ffb943a84819a0168ddf44e791eea663b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 164,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_46a.htm",
+     "sha256": "e571575710ef76c2fe43fe810d81a83063326d377c253a66c139e7b7b167ddca"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 173,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_46a.htm",
+     "sha256": "226383d380b1e8222258000fc48d05cb37ed9ed8e710455139eaf8b42d77a136"
+    },
+    {
      "from": "2025-01-01",
      "units": 175,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_46a.htm",
@@ -1337,6 +2273,24 @@
    "title": "General Statutes of Connecticut, Title 46B: Family Law",
    "url": "https://www.cga.ct.gov/current/pub/title_46b.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 396,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_46b.htm",
+     "sha256": "fff9613d00d73ae490eef926d8fba51ffb27ed324bfd2fc17aaa20e943a09381"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 401,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_46b.htm",
+     "sha256": "c6cc02b6c67bb7707d6bbf613e1fd2d612baaff7e03a429547c4ddd6a2280d68"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 494,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_46b.htm",
+     "sha256": "373a3e645a02c77b0a7e1ea085c6a84d387babc381cc81424f649b117960bea0"
+    },
     {
      "from": "2025-01-01",
      "units": 520,
@@ -1358,6 +2312,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_48.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 33,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_48.htm",
+     "sha256": "6382afdf55f2cd021a6f2732e26fa5be5db70260b77f56a4379e12bceefa476a"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 33,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_48.htm",
+     "sha256": "f23e25e9910d108b6e74f073551964cd60984a21eac78fac6de6d1277ba3c544"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 33,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_48.htm",
+     "sha256": "db98a5a8938f6f70c4aa591f85b78852d77eac6a579ceabaf621ab58de07c8c3"
+    },
+    {
      "from": "2025-01-01",
      "units": 33,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_48.htm",
@@ -1377,6 +2349,24 @@
    "title": "General Statutes of Connecticut, Title 49: Mortgages and Liens",
    "url": "https://www.cga.ct.gov/current/pub/title_49.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 177,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_49.htm",
+     "sha256": "082d10d229059a77f843fbff1572dd510c80bba68c4017d6ead8925babbda991"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 177,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_49.htm",
+     "sha256": "9b3c70d8a446d1942afcb8af721ab785a3548b4a2bbfbde3a46218a9140eb278"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 177,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_49.htm",
+     "sha256": "ac0db2022d972a7b791f1c1e6911c29fda93a5f89b58f3c66a284a968f6148d0"
+    },
     {
      "from": "2025-01-01",
      "units": 177,
@@ -1398,6 +2388,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_50.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_50.htm",
+     "sha256": "bdc1b3bb0c1b55b06d465c260eeb0a4fad713070644df099fe81856011ed1da0"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_50.htm",
+     "sha256": "bdc1b3bb0c1b55b06d465c260eeb0a4fad713070644df099fe81856011ed1da0"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_50.htm",
+     "sha256": "560b0003523320c6301a088ffff622d5c1cfee683a608c83a258b323317e8607"
+    },
+    {
      "from": "2025-01-01",
      "units": 12,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_50.htm",
@@ -1412,6 +2420,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_50a.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 76,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_50a.htm",
+     "sha256": "6356be3cb414efa8001c30c552f98209921adbc785a0cb982fe68796daa36cb9"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 76,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_50a.htm",
+     "sha256": "7a6e40bcd6ffd4ce470030ca73844c026925b23cd7d101eb9700e418285b6532"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 76,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_50a.htm",
+     "sha256": "765557305e522344c9e09a42533efd92872774fe5db2d2eaf41b532ff17114f0"
+    },
+    {
      "from": "2025-01-01",
      "units": 76,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_50a.htm",
@@ -1425,6 +2451,24 @@
    "title": "General Statutes of Connecticut, Title 51: Courts",
    "url": "https://www.cga.ct.gov/current/pub/title_51.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 439,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_51.htm",
+     "sha256": "892e1cbf0c2a7167bc7e0237d94bf9c273f578c576d5ded82bb9c110ce0eb179"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 444,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_51.htm",
+     "sha256": "3093e04133295aa0686da8ea0f5bedb797aa60ad5c75f45b959a8790fe16f276"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 447,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_51.htm",
+     "sha256": "6d0cea5fd9e39b61aa2a87330d61a865b3ffe4e2117a6d042cdae40559ce9978"
+    },
     {
      "from": "2025-01-01",
      "units": 448,
@@ -1452,6 +2496,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_52.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 831,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_52.htm",
+     "sha256": "bac44c8dce1cb16fe869a116f834f8b89c5c45e37d8720d108cbefaefa5f36c4"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 835,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_52.htm",
+     "sha256": "88f640b44ee21cf6ec6a54f12235c34dc41237e76155aa2b010d06544eaf0020"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 877,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_52.htm",
+     "sha256": "0f65d7dfbb7128b42f231eed22e77a7a5ad92a252cb095de6bfd129988c5939a"
+    },
+    {
      "from": "2025-01-01",
      "units": 877,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_52.htm",
@@ -1472,6 +2534,24 @@
    "url": "https://www.cga.ct.gov/current/pub/title_53.htm",
    "versions": [
     {
+     "from": "2019-01-01",
+     "units": 221,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_53.htm",
+     "sha256": "bad8881f98a892789e192baada9d42e97fd46771a666d2979b146acf12f4baed"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 223,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_53.htm",
+     "sha256": "0a498f43d4b4c07af8688e7f0db23832644fffc7398992a1730b3faf9b45e034"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 225,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_53.htm",
+     "sha256": "3e43eab4810c75c18498f46cb785980addd1b081c72b09787645fe828ecc8b0f"
+    },
+    {
      "from": "2025-01-01",
      "units": 225,
      "source_url": "https://www.cga.ct.gov/2025/pub/title_53.htm",
@@ -1491,6 +2571,24 @@
    "title": "General Statutes of Connecticut, Title 54: Criminal Procedure",
    "url": "https://www.cga.ct.gov/current/pub/title_54.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 511,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_54.htm",
+     "sha256": "148262dc6674f262f089905b076ebcdc18afa2d2b6bf54ead8948f62eb6dab09"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 516,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_54.htm",
+     "sha256": "d3ab58635f5731e50989dc5782a2075b7280c270943cbaa92c4bde4f876ef1de"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 525,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_54.htm",
+     "sha256": "7099078e0023b716a6739041f835aaea7de43b40da6bfb7d3a0002a691058062"
+    },
     {
      "from": "2025-01-01",
      "units": 529,
@@ -1517,6 +2615,24 @@
    "title": "General Statutes of Connecticut, Title 55: Concluding Provisions",
    "url": "https://www.cga.ct.gov/current/pub/title_55.htm",
    "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://www.cga.ct.gov/2019/pub/title_55.htm",
+     "sha256": "21ef1dd72a29245402c79f9e5d8930e2c8703be2c82acf448aded4e193568e13"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://www.cga.ct.gov/2021/pub/title_55.htm",
+     "sha256": "a940f051dd9541d6da967d3f6396400dc03c3c4eb5f5962fc57005ff2036bd1f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://www.cga.ct.gov/2023/pub/title_55.htm",
+     "sha256": "2d2c9bbe01d9a8beaed05fbb72f00b2d6cb600983639e8891c78c0ae033ddfd7"
+    },
     {
      "from": "2025-01-01",
      "units": 4,

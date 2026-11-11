@@ -10,8 +10,8 @@ Every title of the General Statutes with a section in force: 72 titles (Titles 4
 
 | Folders | Versions | History |
 | --- | --- | --- |
-| `title-33/`, `title-47/`, `title-47a/`, `title-53a/` | revisions of 2019, 2021, 2023, 2025; 2026 supplement | from January 1, 2019 |
-| every other `title-*/` | revision of 2025; 2026 supplement | from January 1, 2025 |
+| 66 titles other than those listed below | revisions of 2019, 2021, 2023 and 2025; 2026 supplement where applicable | from January 1, 2019 |
+| `title-3/`, `title-4/`, `title-5/`, `title-12/`, `title-14/`, `title-38a/` | revision of 2025; 2026 supplement where applicable | from January 1, 2025 |
 
 Sections a later public act rewrites from a stated day ("On and after July 1, 2026, this section ... is to read as follows") change on that day, up to the build day.
 
@@ -27,7 +27,8 @@ Each revision is dated 1 January of its year (2019, 2021, 2023, 2025), the date 
 
 - The Public Acts themselves are not used, so a change is dated by the edition that first prints it (or by the day the edition says it takes effect), not by each act's own effective date.
 - Notes that rewrite only a subsection, or several sections at once, on a later day are not applied; neither are the few whose new heading differs from the printed one. The section keeps the edition's text, which points to the note.
-- Editions before 2019 are not online at the same path; for most titles, the 2019-2023 revisions are not yet added.
+- Editions before 2019 are not online at the same path. Intervening annual supplements and the Public Acts are not yet added.
+- Historical revisions of Titles 3, 4, 5, 12, 14 and 38a are not included because their normative images are absent.
 - Tables inside sections may be flattened to text.
 
 ## How it is checked

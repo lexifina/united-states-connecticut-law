@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 37: Interest
 
-CGS Title 37 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_37.htm>
+CGS Title 37 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_37.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

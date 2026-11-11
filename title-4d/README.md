@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 4D: State Information and Telecommunication Systems
 
-CGS Title 4D · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_04d.htm>
+CGS Title 4D · 5 versions, from 2019-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_04d.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,7 +11,7 @@ CGS Title 4D · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 4d-4 | [0004d-0004.md](0004d-0004.md) | 0 |  |
 | Sec. 4d-5 | [0004d-0005.md](0004d-0005.md) | 0 |  |
 | Sec. 4d-6 | [0004d-0006.md](0004d-0006.md) | 0 |  |
-| Sec. 4d-7 | [0004d-0007.md](0004d-0007.md) | 0 |  |
+| Sec. 4d-7 | [0004d-0007.md](0004d-0007.md) | 1 | 2023-01-01 |
 | Sec. 4d-8 | [0004d-0008.md](0004d-0008.md) | 0 |  |
 | Sec. 4d-8a | [0004d-0008a.md](0004d-0008a.md) | 0 |  |
 | Sec. 4d-9 | [0004d-0009.md](0004d-0009.md) | 0 |  |
@@ -22,9 +22,9 @@ CGS Title 4D · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 4d-14 | [0004d-0014.md](0004d-0014.md) | 0 |  |
 | Sec. 4d-15 | [0004d-0015.md](0004d-0015.md) | 0 |  |
 | Sec. 4d-17 | [0004d-0017.md](0004d-0017.md) | 0 |  |
-| Sec. 4d-30 | [0004d-0030.md](0004d-0030.md) | 0 |  |
+| Sec. 4d-30 | [0004d-0030.md](0004d-0030.md) | 1 | 2025-01-01 |
 | Sec. 4d-31 | [0004d-0031.md](0004d-0031.md) | 0 |  |
-| Sec. 4d-32 | [0004d-0032.md](0004d-0032.md) | 0 |  |
+| Sec. 4d-32 | [0004d-0032.md](0004d-0032.md) | 1 | 2025-01-01 |
 | Sec. 4d-33 | [0004d-0033.md](0004d-0033.md) | 0 |  |
 | Sec. 4d-34 | [0004d-0034.md](0004d-0034.md) | 0 |  |
 | Sec. 4d-35 | [0004d-0035.md](0004d-0035.md) | 0 |  |
@@ -37,16 +37,16 @@ CGS Title 4D · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 4d-42 | [0004d-0042.md](0004d-0042.md) | 0 |  |
 | Sec. 4d-43 | [0004d-0043.md](0004d-0043.md) | 0 |  |
 | Sec. 4d-44 | [0004d-0044.md](0004d-0044.md) | 0 |  |
-| Sec. 4d-47 | [0004d-0047.md](0004d-0047.md) | 0 |  |
-| Sec. 4d-48 | [0004d-0048.md](0004d-0048.md) | 0 |  |
-| Sec. 4d-80 | [0004d-0080.md](0004d-0080.md) | 1 | 2026-01-01 |
+| Sec. 4d-47 | [0004d-0047.md](0004d-0047.md) | 1 | 2025-01-01 |
+| Sec. 4d-48 | [0004d-0048.md](0004d-0048.md) | 1 | 2025-01-01 |
+| Sec. 4d-80 | [0004d-0080.md](0004d-0080.md) | 3 | 2026-01-01 |
 | Sec. 4d-81 | [0004d-0081.md](0004d-0081.md) | 0 |  |
 | Sec. 4d-81a | [0004d-0081a.md](0004d-0081a.md) | 0 |  |
 | Sec. 4d-82 | [0004d-0082.md](0004d-0082.md) | 0 |  |
 | Sec. 4d-82a | [0004d-0082a.md](0004d-0082a.md) | 1 | 2026-01-01 |
 | Sec. 4d-83 | [0004d-0083.md](0004d-0083.md) | 0 |  |
 | Sec. 4d-90 | [0004d-0090.md](0004d-0090.md) | 0 |  |
-| Sec. 4d-91 | [0004d-0091.md](0004d-0091.md) | 0 |  |
+| Sec. 4d-91 | [0004d-0091.md](0004d-0091.md) | 1 | 2023-01-01 |
 | Sec. 4d-91a | [0004d-0091a.md](0004d-0091a.md) | 1 | 2026-01-01 |
-| Sec. 4d-92 | [0004d-0092.md](0004d-0092.md) | 0 |  |
+| Sec. 4d-92 | [0004d-0092.md](0004d-0092.md) | 1 | 2023-01-01 |
 | Sec. 4d-100 | [0004d-0100.md](0004d-0100.md) | 0 |  |

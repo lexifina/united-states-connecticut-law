@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 55: Concluding Provisions
 
-CGS Title 55 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_55.htm>
+CGS Title 55 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_55.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
