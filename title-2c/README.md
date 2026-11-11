@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 2C: Review and Termination of Governmental Entities and Programs
 
-CGS Title 2C · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_02c.htm>
+CGS Title 2C · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_02c.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

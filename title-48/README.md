@@ -1,10 +1,10 @@
 # General Statutes of Connecticut, Title 48: Eminent Domain
 
-CGS Title 48 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_48.htm>
+CGS Title 48 · 5 versions, from 2019-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_48.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Sec. 48-1 | [0048-0001.md](0048-0001.md) | 0 |  |
+| Sec. 48-1 | [0048-0001.md](0048-0001.md) | 1 | 2023-01-01 |
 | Sec. 48-2 | [0048-0002.md](0048-0002.md) | 0 |  |
 | Sec. 48-3 | [0048-0003.md](0048-0003.md) | 0 |  |
 | Sec. 48-4 | [0048-0004.md](0048-0004.md) | 0 |  |
@@ -27,7 +27,7 @@ CGS Title 48 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 48-17c | [0048-0017c.md](0048-0017c.md) | 0 |  |
 | Sec. 48-17d | [0048-0017d.md](0048-0017d.md) | 0 |  |
 | Sec. 48-18 | [0048-0018.md](0048-0018.md) | 0 |  |
-| Sec. 48-19 | [0048-0019.md](0048-0019.md) | 0 |  |
+| Sec. 48-19 | [0048-0019.md](0048-0019.md) | 1 | 2021-01-01 |
 | Sec. 48-20 | [0048-0020.md](0048-0020.md) | 0 |  |
 | Sec. 48-21 | [0048-0021.md](0048-0021.md) | 0 |  |
 | Sec. 48-22 | [0048-0022.md](0048-0022.md) | 0 |  |
