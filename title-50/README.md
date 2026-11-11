@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 50: Lost and Unclaimed Property
 
-CGS Title 50 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_50.htm>
+CGS Title 50 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_50.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
