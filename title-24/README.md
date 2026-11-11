@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 24: State Geological and Natural History Survey. Weather Control Board
 
-CGS Title 24 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_24.htm>
+CGS Title 24 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_24.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 50A: International Law
 
-CGS Title 50A · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_50a.htm>
+CGS Title 50A · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_50a.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

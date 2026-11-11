@@ -4,6 +4,6 @@
   "name": "Connecticut",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-connecticut-law",
-  "build": "built: all 72 live titles of the General Statutes of Connecticut, revision of 2025 (Titles 33, 47, 47a, 53a also 2019, 2021, 2023) and the 2026 supplement",
+  "build": "built: all 72 live General Statutes titles with the 2025 revision and 2026 supplement where applicable; 66 titles also have 2019, 2021 and 2023 revisions; historical additions for six titles with normative images are held",
   "register_date": "2026-10-30"
 }

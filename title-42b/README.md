@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 42B: Registered Obligations of Public Entities
 
-CGS Title 42B · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_42b.htm>
+CGS Title 42B · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_42b.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
