@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 40: Warehouses and Warehouse Receipts. Trust Receipts
 
-CGS Title 40 · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_40.htm>
+CGS Title 40 · 4 versions, from 2019-01-01 (latest in force: 2025-01-01) · <https://www.cga.ct.gov/current/pub/title_40.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

@@ -1,6 +1,6 @@
 # General Statutes of Connecticut, Title 6: Counties and County Officers. Judicial and State Marshals
 
-CGS Title 6 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_06.htm>
+CGS Title 6 · 5 versions, from 2019-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_06.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

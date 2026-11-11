@@ -1,11 +1,11 @@
 # General Statutes of Connecticut, Title 11: Libraries and Museums
 
-CGS Title 11 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_11.htm>
+CGS Title 11 · 5 versions, from 2019-01-01 (latest in force: 2026-01-01) · <https://www.cga.ct.gov/current/pub/title_11.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Sec. 11-1 | [0011-0001.md](0011-0001.md) | 0 |  |
-| Sec. 11-1a | [0011-0001a.md](0011-0001a.md) | 0 |  |
+| Sec. 11-1a | [0011-0001a.md](0011-0001a.md) | 1 | 2023-01-01 |
 | Sec. 11-1b | [0011-0001b.md](0011-0001b.md) | 0 |  |
 | Sec. 11-1c | [0011-0001c.md](0011-0001c.md) | 0 |  |
 | Sec. 11-1d | [0011-0001d.md](0011-0001d.md) | 0 |  |
@@ -20,7 +20,7 @@ CGS Title 11 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 11-4d | [0011-0004d.md](0011-0004d.md) | 0 |  |
 | Sec. 11-5 | [0011-0005.md](0011-0005.md) | 0 |  |
 | Sec. 11-6 | [0011-0006.md](0011-0006.md) | 0 |  |
-| Sec. 11-6a | [0011-0006a.md](0011-0006a.md) | 0 |  |
+| Sec. 11-6a | [0011-0006a.md](0011-0006a.md) | 1 | 2023-01-01 |
 | Sec. 11-7 | [0011-0007.md](0011-0007.md) | 0 |  |
 | Sec. 11-8 | [0011-0008.md](0011-0008.md) | 0 |  |
 | Sec. 11-8a | [0011-0008a.md](0011-0008a.md) | 0 |  |
@@ -57,8 +57,8 @@ CGS Title 11 · 2 versions, from 2025-01-01 (latest in force: 2026-01-01) · <ht
 | Sec. 11-23c | [0011-0023c.md](0011-0023c.md) | 0 |  |
 | Sec. 11-24 | [0011-0024.md](0011-0024.md) | 0 |  |
 | Sec. 11-24a | [0011-0024a.md](0011-0024a.md) | 0 |  |
-| Sec. 11-24b | [0011-0024b.md](0011-0024b.md) | 1 | 2026-01-01 |
-| Sec. 11-24c | [0011-0024c.md](0011-0024c.md) | 0 |  |
+| Sec. 11-24b | [0011-0024b.md](0011-0024b.md) | 2 | 2026-01-01 |
+| Sec. 11-24c | [0011-0024c.md](0011-0024c.md) | 1 | 2025-01-01 |
 | Sec. 11-24d | [0011-0024d.md](0011-0024d.md) | 0 |  |
 | Sec. 11-24e | [0011-0024e.md](0011-0024e.md) | 1 | 2026-01-01 |
 | Sec. 11-25 | [0011-0025.md](0011-0025.md) | 0 |  |
